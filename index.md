@@ -5,7 +5,7 @@ layout: page
 
 # Divestment, Dissent, and Discipline: A Research Guide
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="Protest_Strike_Bway_72.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
