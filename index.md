@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: page
 ---
 
 # Bootstrap Workshop Template!
