@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: A guide to using administrative records to research histories of divestment, dissent, and discipline at Barnard College
+title: Divestment, Dissent, and Discipline: A Research Guide
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -18,7 +18,7 @@ title: A guide to using administrative records to research histories of divestme
 title-icon: code-slash
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "A guide to using administrative records to research histories of divestment, dissent, and discipline at Barnard College "
+description: "A guide to using administrative records to research histories of divestment, dissent, and discipline at Barnard College"
 keywords: "workshops, websites, gh-pages, jekyll"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
