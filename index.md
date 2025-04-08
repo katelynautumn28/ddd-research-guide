@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: page-full-width
 ---
 
 # Bootstrap Workshop Template!
