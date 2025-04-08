@@ -1,6 +1,6 @@
 ---
-title: Get Started
-nav: Start
+title: Researching Divestment
+nav: Divestment
 topics: Template; Basic Config
 ---
 
