@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# Divestment, Dissent, and Discipline: A Research Guide
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
