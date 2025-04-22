@@ -9,9 +9,12 @@ A divestment campaign involves coordinated efforts by people who oppose an insti
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
-<div class="w-100 p-3">
-  <iframe class="embed-responsive-item" src="https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf" allowfullscreen></iframe>
-</div>
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
 
 {% capture text %}
 This graphic shows a timeline of Divest Barnard's activities from its founding in September 2014 through September 2015.
