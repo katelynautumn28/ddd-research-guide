@@ -1,7 +1,6 @@
 ---
 title: Researching Divestment
 nav: Divestment
-topics:
 ---
 
 Divestment, also known as divestiture, refers to when a business sells off some assets (e.g. stocks, property, subsidiaries) to achieve some financial, ethical, or political goal. To divest from a business or class of businesses (e.g. energy companies that utilize fossil fuels) means to end financial and business relationships with them so neither party may continue to benefit financially from the other. 
@@ -10,7 +9,7 @@ A divestment campaign involves coordinated efforts by people who oppose an insti
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
-<div class="embed-responsive embed-responsive-21by9">
+<div class="w-100 p-3">
   <iframe class="embed-responsive-item" src="https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf" allowfullscreen></iframe>
 </div>
 
