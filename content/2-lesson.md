@@ -15,7 +15,7 @@ Here are some materials that document the response of Barnard administration to 
 </style>
 <div id="my-pdf"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
+<script>PDFObject.embed("katelynautumn28.github.io/research-barnard-admin/BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
 
 {% capture text %}
 This graphic shows a timeline of Divest Barnard's activities from its founding in September 2014 through September 2015.
