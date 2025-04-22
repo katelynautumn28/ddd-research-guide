@@ -5,17 +5,9 @@ layout: page
 
 # Divestment, Dissent, and Discipline: A Research Guide
 
-{% include figure.html img="Protest_Strike_Bway_72.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="Protest_Strike_Bway_72.jpg" alt="intro image here" caption="March on Broadway, April 18, 1972. BC17-10 Photographs - Student Activities and Student Life. Barnard Digital Collections." width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
-
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+This research guide provides digitized images of administrative records that may be useful for conducting research on the history of divestment, dissent, and discipline on Barnard’s campus. This guide may also be used as the basis for a class or workshop on how to conduct archival research on histories of activism and protest.
 
 {% include toc.html %}
 
