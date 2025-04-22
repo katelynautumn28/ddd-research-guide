@@ -15,4 +15,4 @@ This graphic shows a timeline of Divest Barnard's activities from its founding i
 Location: Divest Barnard Collection, 2010-2017 (BC37-35); Box 1, Folder 1; Barnard Archives and Special Collections, Barnard Library, Barnard College.
 Explore the full Divest Barnard finding aid [here]([https://getbootstrap.com/docs/4.1/components/card/](https://collections.barnard.edu/public/repositories/2/resources/381)).
 {% endcapture %}
-{% include card.html text=text header="Divest Barnard" title="Title example" img="uidaho-workshop.jpg" %}
+{% include card.html text=text header="Divest Barnard" title="Title example" img="BC37-35_Box1_Folder1_1.jpg" %}
