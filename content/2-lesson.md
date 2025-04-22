@@ -10,8 +10,8 @@ A divestment campaign involves coordinated efforts by people who oppose an insti
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
-<div class='embed-responsive' style='padding-bottom:150%'>
-    <object data='BC01-01_Box39_Folder3.pdf' type='application/pdf' width='100%' height='100%'></object>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="images/BC01-01_Box39_Folder3.pdf" allowfullscreen></iframe>
 </div>
 
 {% capture text %}
