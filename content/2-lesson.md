@@ -16,3 +16,21 @@ Location: Divest Barnard Collection, 2010-2017 (BC37-35); Box 1, Folder 1; Barna
 Explore the full Divest Barnard finding aid [here]([https://getbootstrap.com/docs/4.1/components/card/](https://collections.barnard.edu/public/repositories/2/resources/381)).
 {% endcapture %}
 {% include card.html text=text header="Divest Barnard" title="Title example" img="BC37-35_Box1_Folder1_1.jpg" %}
+
+
+# For classes/workshops: 
+{% include accordion.html 
+title1="General document analysis questions" 
+  text1=
+  - What is the document? Who created the document, when did they create it, where did they created, why did they create it, and how did they create it?
+  - Where does your eye go first? What do you see that you didn’t expect?
+  - What is not communicated in the document and why?
+  - What does the document communicate to you as a standalone object? What does it communicate to you in relation to other documents in its collection, to other documents in your research?
+  - What can you infer about the broader campus, city, national, and/or international context in which a particular material was created?
+  - How would you contextualize this item within a larger research project or question? What other types of sources would you need to answer your questions about this item? 
+title2="Content-specific questions"
+  text2=
+  - What is different about the language and tone that administrators use when communicating to students about divestment compared to when students communicate to other students? Or when administrators communicate with other administrators?
+  - In what ways do/could these materials serve as precedent for our current moment? 
+ title3="Group Activity"
+text3=Work collaboratively to develop a digital timeline of divestment campaigns at Barnard using a platform like [Knight Lab’s Timeline JS](https://timeline.knightlab.com/). Small groups of students/participants could each create a timeline for one particular divestment campaign (e.g. South African apartheid, fossil fuels), or each group can be responsible for adding 2-3 events to a collective timeline that includes all types of divestment campaigns.  %}
