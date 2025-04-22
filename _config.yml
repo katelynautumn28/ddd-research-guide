@@ -67,6 +67,6 @@ defaults:
     values:
       layout: "section"
 # ignore stuff
-exclude: [README.md, LICENSE, assets/lib/README.md]
+exclude: [0-prep.md, README.md, LICENSE, assets/lib/README.md]
 # Build settings
 markdown: kramdown
