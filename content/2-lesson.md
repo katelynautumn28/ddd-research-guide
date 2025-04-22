@@ -10,6 +10,8 @@ A divestment campaign involves coordinated efforts by people who oppose an insti
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
+{% include figure.html img="BC01-01_Box39_Folder3.pdf" alt="workshop scene" caption="Letter from Barnard President Ellen V. Futter to the Board of Trustees regarding Barnard's divestment from South Africa, August 28, 1985." width="75%" %}
+
 {% capture text %}
 This graphic shows a timeline of Divest Barnard's activities from its founding in September 2014 through September 2015.
 Location: Divest Barnard Collection, 2010-2017 (BC37-35); Box 1, Folder 1; Barnard Archives and Special Collections, Barnard Library, Barnard College.
