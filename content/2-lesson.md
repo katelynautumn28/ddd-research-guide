@@ -34,14 +34,17 @@ This letter from Barnard President Ellen Futter, located in the Correspondence s
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
 {% include modal.html button="Citation" color="success" title="Citation" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
-From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] In this 1989 memo from Jo-Anne Howe, Secretary to the Board of Trustees, to Richard Reiss, Howe not only states the Board's policy of divestment but also includes a "Don't Buy List" that includes an extensive list of domestic and international companies operating in South Africa at the time: 
+From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] For example, Barnard trustee Richard Reiss seems to have been inquiring about the extent of the polucy in 1989. 
 
+{% include figure.html img="BC01-01_Box63_Folder6_2.jpg" alt="Investment Committee meeting minutes" caption="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989" width="75%" %}
+{% include modal.html button="Citation" color="success" title="Citation" text="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf2"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf2");</script>
+{% include modal.html button="Citation" color="success" title="Citation" text="South Africa Policy, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
 ## Divestment from fossil fuels
 
