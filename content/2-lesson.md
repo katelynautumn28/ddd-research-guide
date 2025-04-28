@@ -33,6 +33,15 @@ Barnard President Ellen Futter announced the Board's complete divestment from So
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
 
+In this 1989 memo from Jo-Anne Howe, Secretary to the Board of Trustees, to Richard Reiss, Howe not only states the Board's policy of divestment but also includes a "Don't Buy List" that includes an extensive list of domestic and international companies operating in South Africa at the time: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf");</script>
+
 ## Divestment from fossil fuels
 
 {% capture text %}
