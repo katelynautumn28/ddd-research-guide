@@ -38,9 +38,9 @@ In this 1989 memo from Jo-Anne Howe, Secretary to the Board of Trustees, to Rich
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf"></div>
+<div id="my-pdf2"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf2");</script>
 
 ## Divestment from fossil fuels
 
