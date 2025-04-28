@@ -20,11 +20,11 @@ Explore the full digitized Barnard Bulletin collection  [here]([https://getboots
 {% endcapture %}
 {% include card.html text=text header="Barnard Bulletin, April 12, 1973" title="Student support for divestment campaigns" img="Barnard Bulletin 1973 divest.png" %}
 
-By looking through the Barnard Board of Trustees' meeting minutes, we see that the Board began discussing divestment from South Africa in earnest in the early 1980s:
+The Board of Trustees Records (BC01.01) in the Barnard Archives includes several materials that shed light on the College administration's discussions of divestment. By examining the Board's meeting minutes, we see that the Board began discussing divestment from South Africa in earnest in the early 1980s:
 
 minutesminutesminutesminutes
 
-Barnard President Ellen Futter announced the Board's complete divestment from South Africa in a letter dated August 28, 1985:
+This letter from Barnard President Ellen Futter, located in the Correspondence sub-series of the Board of Trustees Records, announced the Board's complete divestment from South Africa to the wider Barnard community:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -32,8 +32,9 @@ Barnard President Ellen Futter announced the Board's complete divestment from So
 <div id="my-pdf"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
+{% include modal.html button="Citation" color="success" title="Citation" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
-In this 1989 memo from Jo-Anne Howe, Secretary to the Board of Trustees, to Richard Reiss, Howe not only states the Board's policy of divestment but also includes a "Don't Buy List" that includes an extensive list of domestic and international companies operating in South Africa at the time: 
+From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] In this 1989 memo from Jo-Anne Howe, Secretary to the Board of Trustees, to Richard Reiss, Howe not only states the Board's policy of divestment but also includes a "Don't Buy List" that includes an extensive list of domestic and international companies operating in South Africa at the time: 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -54,3 +55,6 @@ Explore the full Divest Barnard finding aid [here]([https://getbootstrap.com/doc
 
 ## Questions & activity for classes/workshops: 
 {% include accordion.html title1="General document analysis questions" text1="<ol><li>What is the document? Who created the document, when did they create it, where did they created, why did they create it, and how did they create it?</li><li>Where does your eye go first? What do you see that you didn’t expect?</li><li>What is not communicated in the document and why?</li><li>What can you infer about the broader campus, city, national, and/or international context in which a particular material was created?</li><li>How would you contextualize this item within a larger research project or question? What other types of sources would you need to answer your questions about this item?</li></ol>" title2="Content-specific questions" text2="<ol><li>What is different about the language and tone that administrators use when communicating to students about divestment compared to when students communicate to other students? Or when administrators communicate with other administrators?</li><li>In what ways do/could these materials serve as precedent for our current moment?</li></ol>" title3="Group Activity" text3="Work collaboratively to develop a digital timeline of divestment campaigns at Barnard using a platform like [Knight Lab’s Timeline JS](https://timeline.knightlab.com/). Small groups of students/participants could each create a timeline for one particular divestment campaign (e.g. South African apartheid, fossil fuels), or each group can be responsible for adding 2-3 events to a collective timeline that includes all types of divestment campaigns."  %}
+
+### Notes
+[1.] Bylaws of Barnard College as of June 7, 2023, BC-01_001. Board of Trustees Records, 1882-2023; Barnard Archives and Special Collections, Barnard Library, Barnard College.
