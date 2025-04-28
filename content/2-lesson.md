@@ -9,6 +9,13 @@ A divestment campaign involves coordinated efforts by people who oppose an insti
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
+##Divestment from South Africa
+
+Campaigns to divest from businesses operating in South Africa in protest of the nation's system of apartheid had existed in the U.S and internationally since the 1960s. By taking a look at the archives of student publications the Barnard Bulletin and the Columbia Spectator, it is clear that divestment was an issue on Barnard and Columbia students' minds by the early 1970s. 
+
+
+
+
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
