@@ -9,7 +9,7 @@ A divestment campaign involves coordinated efforts by people who oppose an insti
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
-##Divestment from South Africa
+## Divestment from South Africa
 
 Campaigns to divest from businesses operating in South Africa in protest of the nation's system of apartheid had existed in the U.S and internationally since the 1960s. By taking a look at the archives of student publications the Barnard Bulletin and the Columbia Spectator, it is clear that divestment was an issue on Barnard and Columbia students' minds by the early 1970s. 
 
@@ -20,6 +20,11 @@ Explore the full digitized Barnard Bulletin collection  [here]([https://getboots
 {% endcapture %}
 {% include card.html text=text header="Barnard Bulletin, April 12, 1973" title="Student support for divestment campaigns" img="Barnard Bulletin 1973 divest.png" %}
 
+By looking through the Barnard Board of Trustees' meeting minutes, we see that the Board began discussing divestment from South Africa in earnest in the early 1980s:
+
+minutesminutesminutesminutes
+
+Barnard President Ellen Futter announced the Board's complete divestment from South Africa in a letter dated August 28, 1985:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
