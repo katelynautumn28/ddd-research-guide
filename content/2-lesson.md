@@ -13,7 +13,12 @@ Here are some materials that document the response of Barnard administration to 
 
 Campaigns to divest from businesses operating in South Africa in protest of the nation's system of apartheid had existed in the U.S and internationally since the 1960s. By taking a look at the archives of student publications the Barnard Bulletin and the Columbia Spectator, it is clear that divestment was an issue on Barnard and Columbia students' minds by the early 1970s. 
 
-
+{% capture text %}
+In this issue of the Barnard Bulletin published on April 12, 1973, a Barnard student named Julie Simon stated that, as a candidate for the Barnard undergrad student seat on the Columbia Senate, she supported divestment campaigns in protest of the College's business ties to South Africa and Gulf Oil among other social issues. 
+Citation: Barnard Bulletin, April 12, 1973. Barnard Bulletin, 1901-2019 (BC12-03); Barnard Digitical Collections, Barnard Archives and Special Collections, Barnard Library, Barnard College.
+Explore the full digitized Barnard Bulletin collection  [here]([https://getbootstrap.com/docs/4.1/components/card/](https://digitalcollections.barnard.edu/bulletin)).
+{% endcapture %}
+{% include card.html text=text header="Barnard Bulletin, April 12, 1973" title="Student support for divestment campaigns" img="Barnard Bulletin 1973 divest.png" %}
 
 
 <style>
