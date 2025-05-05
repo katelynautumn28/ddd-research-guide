@@ -33,7 +33,6 @@ The Board of Trustees Records (BC01.01) in the Barnard Archives includes many ma
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-02-13.pdf", "#my-pdf1");</script>
 {% include modal.html button="Citation" color="success" title="Citation" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
-
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
@@ -41,6 +40,8 @@ The Board of Trustees Records (BC01.01) in the Barnard Archives includes many ma
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-04-24.pdf", "#my-pdf2");</script>
 {% include modal.html button="Citation" color="success" title="Citation" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+
+The Board's official resolution to divest from businesses with operations in South Africa was passed on May 29, 1985:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -89,6 +90,8 @@ From 1985 to 1993, the South Africa policy was frequently referenced by the Inve
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box64_Folder4.pdf", "#my-pdf7");</script>
 {% include modal.html button="Citation" color="success" title="Citation" text="Memo from Kathryn Rodgers to Glenn H. Greenburg including materials related to South Africa divestment policy and discussions of reinvestment, November 23, 1993. Board of Trustees Records, 1882-2023; Box 64, Folder 4; Barnard Archives and Special Collections." %}
+
+
 
 ## Divestment from Israel
 Adminsitrative materials related to campus debates about Israel-Palestine appear most prominently in [Series 6](https://collections.barnard.edu/public/repositories/2/archival_objects/24501) of the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332). Series 6  contains correspondence between Barnard College President Judith R. Shapiro (1994-2008) and academic departments, professors, administrators, administrative departments, students, and donors.
