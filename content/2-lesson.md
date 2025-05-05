@@ -147,7 +147,7 @@ This draft of the Task Force's final report, which is undated but likely authore
 <div id="my-pdf10"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC37-35_Box1_Folder9_2016-07-29.pdf", "#my-pdf10");</script>
-{% include modal.html button="Citation: 'Frequently asked questions and arguments'" color="success" title="Citation9" text="Draft of Final Report of Presidential Task Force to Examine Divestment, undated. Barnard College Presidential Task Force to Examine Divestment Administrative, Reports, and Other Materials, 2016 - 2017, Box: 1, Folder: 9. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Draft of Final Report of Presidential Task Force to Examine Divestment" color="success" title="Citation9" text="Draft of Final Report of Presidential Task Force to Examine Divestment, undated. Barnard College Presidential Task Force to Examine Divestment Administrative, Reports, and Other Materials, 2016 - 2017, Box: 1, Folder: 9. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
 
 
