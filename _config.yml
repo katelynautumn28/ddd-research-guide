@@ -18,7 +18,7 @@ title: "DDD"
 title-icon: code-slash
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "A guide to using administrative records to research histories of divestment, dissent, and discipline at Barnard College"
+description: "A guide to using administrative archival records to research histories of divestment, dissent, and discipline at Barnard College"
 keywords: "workshops, websites, gh-pages, jekyll"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
@@ -27,7 +27,7 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Katelyn Landry
+author: Katelyn Landry, 2024-25 Barnard Archives Graduate Fellow
 # your github username for link [optional]
 github_username: katelynautumn28
 # year or date published
