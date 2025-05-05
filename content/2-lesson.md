@@ -120,7 +120,7 @@ Members of Divest Barnard compiled research and publications regarding the broad
 </style>
 <div id="my-pdf8"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1.pdf", "#my-pdf8");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1_2.pdf", "#my-pdf8");</script>
 {% include modal.html button="Citation:'Divestment 101: Climate Justice and the Seven Sisters.'" color="success" title="Citation9" text="'Divestment 101: Climate Justice and the Seven Sisters,'Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
 <style>
@@ -128,7 +128,7 @@ Members of Divest Barnard compiled research and publications regarding the broad
 </style>
 <div id="my-pdf9"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1.pdf", "#my-pdf9");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1_3.pdf", "#my-pdf9");</script>
 {% include modal.html button="Citation:'Frequently asked questions and arguments'" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
 
