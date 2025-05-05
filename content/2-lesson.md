@@ -98,7 +98,7 @@ Following calls from Nelson Mandela for US institutions to reinvest in South Afr
 ----------
 
 ## Divestment from Israel
-Adminsitrative materials related to campus debates about Israel-Palestine appear most prominently in [Series 6](https://collections.barnard.edu/public/repositories/2/archival_objects/24501) of the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332). Series 6  contains correspondence between Barnard College President Judith R. Shapiro (1994-2008) and academic departments, professors, administrators, administrative departments, students, and donors.
+Administrative materials related to campus debates about Israel-Palestine appear most prominently in [Series 6](https://collections.barnard.edu/public/repositories/2/archival_objects/24501) of the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332). Series 6  contains correspondence between Barnard College President Judith R. Shapiro (1994-2008) and academic departments, professors, administrators, administrative departments, students, and donors.
 
 Shapiro released [this statement](https://collections.barnard.edu/public/repositories/2/archival_objects/24530) on November 7, 2002 in response to a petition signed by Barnard and Columbia community members calling on academic institutions to sanction Israel in response to increased violence in Israel-Palestine during a major uprising of Palestinians known as the Second Intifada. 
 
