@@ -5,7 +5,7 @@ nav: Divestment
 
 Divestment, also known as divestiture, refers to when a business sells off some assets (e.g. stocks, property, subsidiaries) to achieve some financial, ethical, or political goal. To divest from a business or class of businesses (e.g. energy companies that utilize fossil fuels) means to end financial and business relationships with them so neither party may continue to benefit financially from the other. 
 
-A divestment campaign involves coordinated efforts by people who oppose an institution’s investments or business ties to particular types of companies, usually for political or ethical reasons. Divestment campaigns in higher education have typically....
+A divestment campaign involves coordinated efforts by people who oppose an institution’s investments or business ties to particular types of companies, usually for political or ethical reasons. Divestment campaigns in higher education have typically been driven by student organizers and activists who plan coordinated actions on campuses to place pressure on administrators to cut financial ties countries or businesses which contribute to mass death, violence, social injustice, and/or environmental destruction. 
 
 Here are some materials that document the response of Barnard administration to divestment campaigns: 
 
@@ -20,10 +20,10 @@ Explore the full digitized Barnard Bulletin collection  [here]([https://getboots
 {% endcapture %}
 {% include card.html text=text header="Barnard Bulletin, April 12, 1973" title="Student support for divestment campaigns" img="Barnard Bulletin 1973 divest.png" %}
 
-The Board of Trustees Records (BC01.01) in the Barnard Archives includes many materials that shed light on the College administration's discussions of divestment. In the wake of intense student protests and the well-documented occupation of Hamilton Hall in April 1985, the Board of Trustees began taking concrete actions to enact an official divestment policy on South Africa business holdings in spring 1985. Here are a few excerpts of meeting minutes contained in the February 1984-December 1985 volume of meeting minutes, located in Series 1, Box 8 of the Board of Trustees Records. 
+The [Board of Trustees Records](https://collections.barnard.edu/public/repositories/2/resources/2) in the Barnard Archives includes many materials that shed light on the College administration's discussions of divestment. In the wake of [intense student protests and the well-documented occupation of Hamilton Hall in April 1985](https://katelynautumn28.github.io/research-barnard-admin/content/3-lesson.html), the Board of Trustees began taking concrete actions to enact an official divestment policy on South Africa business holdings in spring 1985. Here are a few excerpts of meeting minutes contained in the February 1984-December 1985 volume of meeting minutes, located in [Subseries 1.1, Box 8](https://collections.barnard.edu/public/repositories/2/archival_objects/25764) of the Board of Trustees Records. 
 
 {% include figure.html img="BC01-01_Box8_1984-12-11.jpg" alt="Board meeting minutes, December 11, 1984" caption="Excerpt from Board of Trustees meeting minutes, December 11, 1984" width="75%" %}
-{% include modal.html button="Citation1" color="success" title="Citation" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation" color="success" title="Citation1" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -31,7 +31,7 @@ The Board of Trustees Records (BC01.01) in the Barnard Archives includes many ma
 <div id="my-pdf1"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-02-13.pdf", "#my-pdf1");</script>
-{% include modal.html button="Citation2" color="success" title="Citation" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation" color="success" title="Citation2" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -62,7 +62,7 @@ This letter from Barnard President Ellen Futter, located in the Correspondence s
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf4");</script>
 {% include modal.html button="Citation5" color="success" title="Citation" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections." %}
 
-From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] Boxes 63 and 64 in Subseries 3.5 cover the 1980s and 1990s, at which time the College's policies on South African investments were often under discussion. 
+From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] Boxes 63 and 64 in Subseries 3.5 cover the 1980s and 1990s, at which time the College's policies on South African investments were often under discussion:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
