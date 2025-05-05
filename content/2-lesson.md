@@ -23,7 +23,7 @@ Explore the full digitized Barnard Bulletin collection  [here]([https://getboots
 The [Board of Trustees Records](https://collections.barnard.edu/public/repositories/2/resources/2) in the Barnard Archives includes many materials that shed light on the College administration's discussions of divestment. In the wake of [intense student protests and the well-documented occupation of Hamilton Hall in April 1985](https://katelynautumn28.github.io/research-barnard-admin/content/3-lesson.html), the Board of Trustees began taking concrete actions to enact an official divestment policy on South Africa business holdings in spring 1985. Here are a few excerpts of meeting minutes contained in the February 1984-December 1985 volume of meeting minutes, located in [Subseries 1.1, Box 8](https://collections.barnard.edu/public/repositories/2/archival_objects/25764) of the Board of Trustees Records. 
 
 {% include figure.html img="BC01-01_Box8_1984-12-11.jpg" alt="Board meeting minutes, December 11, 1984" caption="Excerpt from Board of Trustees meeting minutes, December 11, 1984" width="75%" %}
-{% include modal.html button="Citation" color="success" title="Citation1" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Board meeting minutes, December 11, 1984" color="success" title="Citation1" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -31,7 +31,7 @@ The [Board of Trustees Records](https://collections.barnard.edu/public/repositor
 <div id="my-pdf1"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-02-13.pdf", "#my-pdf1");</script>
-{% include modal.html button="Citation" color="success" title="Citation2" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 13, 1985" color="success" title="Citation2" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -39,7 +39,7 @@ The [Board of Trustees Records](https://collections.barnard.edu/public/repositor
 <div id="my-pdf2"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-04-24.pdf", "#my-pdf2");</script>
-{% include modal.html button="Citation" color="success" title="Citation3" text="Excerpt from Board of Trustees meeting minutes, April 24, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, April 24, 1985" color="success" title="Citation3" text="Excerpt from Board of Trustees meeting minutes, April 24, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 The Board's official resolution to divest from businesses with operations in South Africa was passed on May 29, 1985:
 
@@ -49,7 +49,7 @@ The Board's official resolution to divest from businesses with operations in Sou
 <div id="my-pdf3"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-05-29.pdf", "#my-pdf3");</script>
-{% include modal.html button="Citation" color="success" title="Citation4" text="Excerpt from Board of Trustees meeting minutes, May 29, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, May 29, 1985" color="success" title="Citation4" text="Excerpt from Board of Trustees meeting minutes, May 29, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 
 This letter from Barnard President Ellen Futter, located in the Correspondence sub-series of the Board of Trustees Records, announced the Board's complete divestment from South Africa to the wider Barnard community:
@@ -60,7 +60,7 @@ This letter from Barnard President Ellen Futter, located in the Correspondence s
 <div id="my-pdf4"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf4");</script>
-{% include modal.html button="Citation" color="success" title="Citation5" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Ellen Futter to the Board of Trustees, August 28, 1985" color="success" title="Citation5" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections." %}
 
 From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] Boxes 63 and 64 in Subseries 3.5 cover the 1980s and 1990s, at which time the College's policies on South African investments were often under discussion:
 
@@ -70,10 +70,10 @@ From 1985 to 1993, the South Africa policy was frequently referenced by the Inve
 <div id="my-pdf5"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf5");</script>
-{% include modal.html button="Citation" color="success" title="Citation6" text="South Africa Policy, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: South Africa Policy, 1989" color="success" title="Citation6" text="South Africa Policy, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections." %}
 
 {% include figure.html img="BC01-01_Box63_Folder6_2.jpg" alt="Investment Committee meeting minutes" caption="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989" width="75%" %}
-{% include modal.html button="Citation" color="success" title="Citation7" text="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Investment Committee meeting minutes, February 7, 1989" color="success" title="Citation7" text="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -81,7 +81,7 @@ From 1985 to 1993, the South Africa policy was frequently referenced by the Inve
 <div id="my-pdf6"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box64_Folder4.pdf", "#my-pdf6");</script>
-{% include modal.html button="Citation" color="success" title="Citation8" text="Memo from Kathryn Rodgers to Glenn H. Greenburg including materials related to South Africa divestment policy and discussions of reinvestment, November 23, 1993. Board of Trustees Records, 1882-2023; Box 64, Folder 4; Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Memo including materials related to South Africa divestment policy" color="success" title="Citation8" text="Memo from Kathryn Rodgers to Glenn H. Greenburg including materials related to South Africa divestment policy and discussions of reinvestment, November 23, 1993. Board of Trustees Records, 1882-2023; Box 64, Folder 4; Barnard Archives and Special Collections." %}
 
 Following calls from Nelson Mandela for US institutions to reinvest in South Africa given the abolition of apartheid in 1994 and the improvement of social conditions, the Board quickly moved to reverse its 1985 divestment policy: 
 
@@ -91,7 +91,7 @@ Following calls from Nelson Mandela for US institutions to reinvest in South Afr
 <div id="my-pdf7"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box9_1994-02-16.pdf", "#my-pdf7");</script>
-{% include modal.html button="Citation" color="success" title="Citation9" text="Excerpt from Board of Trustees meeting minutes, February 19, 1994. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 19, 1994" color="success" title="Citation9" text="Excerpt from Board of Trustees meeting minutes, February 19, 1994. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
 ## Divestment from Israel
 Adminsitrative materials related to campus debates about Israel-Palestine appear most prominently in [Series 6](https://collections.barnard.edu/public/repositories/2/archival_objects/24501) of the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332). Series 6  contains correspondence between Barnard College President Judith R. Shapiro (1994-2008) and academic departments, professors, administrators, administrative departments, students, and donors.
@@ -99,7 +99,7 @@ Adminsitrative materials related to campus debates about Israel-Palestine appear
 Shapiro penned this letter on November 7, 2002 in response to a petition signed by Barnard and Columbia community members calling on academic institutions to sanction Israel in response to increased violence in Israel-Palestine during a major uprising of Palestinians known as the Second Intifada. 
 
 {% include figure.html img="BC05-22_Box199_Folder9.jpg" alt="Statement from Judith Shapiro on Divestment from Israel" caption="Barnard College statement on divestment from Israel, November 7, 2002" width="75%" %}
-{% include modal.html button="Citation" color="success" title="Citation10" text="Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Barnard College statement on divestment from Israel, November 7, 2002" color="success" title="Citation10" text="Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections." %}
 
 ## Divestment from fossil fuels
 The student-led movement for fossil fuel divestment in the US saw significant growth in the 2010s. In their article titled "Fossil fuel divestment in US higher education: student-led organizing for climate justice," Jessica Grady-Benson and Brinda Sarathy observe two primary motivations for students' increased climate activism: "On one hand, the student movement for FFD may be understood as a response to years of inadequate political action to address climate change and the social consequences of fossil fuel extraction and production (O’Neill and Oppenheimer 2002, McCright and Dunlap 2003, Juhasz 2009, Wachholz et al. 2014, Klein 2014). On the other hand, it is also an alternative to insufficient attempts at individualised environmental responsibility which encourages consumer-based approaches such as personal carbon footprint reduction." 
@@ -121,7 +121,7 @@ Members of Divest Barnard compiled research and publications regarding the broad
 <div id="my-pdf8"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1.pdf", "#my-pdf8");</script>
-{% include modal.html button="Citation" color="success" title="Citation9" text="'Divestment 101: Climate Justice and the Seven Sisters.'Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation:'Divestment 101: Climate Justice and the Seven Sisters.'" color="success" title="Citation9" text="'Divestment 101: Climate Justice and the Seven Sisters,'Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -129,7 +129,7 @@ Members of Divest Barnard compiled research and publications regarding the broad
 <div id="my-pdf9"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1.pdf", "#my-pdf9");</script>
-{% include modal.html button="Citation" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation:'Frequently asked questions and arguments'" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
 
 
@@ -139,6 +139,6 @@ Members of Divest Barnard compiled research and publications regarding the broad
 ### Citations
 {% include accordion.html title1="Archival Materials" text1="<ol><li> [Board of Trustees meeting minutes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25764) </li><li>[Board of Trustees meeting minutes, 1989 - 2003, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25765)</li><li>[Correspondence, 1970s-1980s, Sub-series 2.3, Box: 39, Folder 3. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25891)</li><li>[Committee on Investments, 1982 - 1990, Sub-series 3.5, Box: 63, Folders: 5-6. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25960)</li><li>[Committee on Investments, 1990 - 1997, Sub-series 3.5, Box: 64, Folders: 1-9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25961)</li><li>[Clippings, Series 1, Box: 32, South Africa. Office of Communications records, BC05-08. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/265)</li><li>[Barbara Schmitter correspondence and datebooks, 1988 - 1993, Subseries 1.1, Box: 3, Correspondence Spring 1993. Deans’ Office for Advising & Support Records, BC05-15. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/22395)</li></ol>" 
 
-title2="Notes" text2="<ol><li>[1.] Bylaws of Barnard College as of June 7, 2023, BC-01_001. Board of Trustees Records, 1882-2023; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li><li>In what ways do/could these materials serve as precedent for our current moment?</li><li>Grady-Benson, Jessica, and Brinda Sarathy. 2016. “Fossil Fuel Divestment in US Higher Education: Student-Led Organising for Climate Justice.” Local Environment 21 (6): 661–81. doi:10.1080/13549839.2015.1009825.</li></ol>" %}
+title2="Notes" text2="<ol><li>Bylaws of Barnard College as of June 7, 2023, BC-01_001. Board of Trustees Records, 1882-2023; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li><li>Grady-Benson, Jessica, and Brinda Sarathy. 2016. “Fossil Fuel Divestment in US Higher Education: Student-Led Organising for Climate Justice.” Local Environment 21 (6): 661–81. doi:10.1080/13549839.2015.1009825.</li></ol>" %}
 
 
