@@ -8,7 +8,7 @@ description: >
 
 -------
 
-## Racism & Oppression
+## Black Power & Civil Rights
 
 -------
 
