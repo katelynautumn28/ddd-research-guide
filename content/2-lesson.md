@@ -137,10 +137,20 @@ Members of Divest Barnard compiled research and publications regarding the broad
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1_3.pdf", "#my-pdf9");</script>
 {% include modal.html button="Citation: 'Frequently asked questions and arguments'" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
+In response to increasing campus organizing and discussions about fossil fuel divestment, Barnard's Board of Trustees establised a Presidential Task Force to Examine Divestment on December 9, 2015. The Task Force comprised trustees, faculty, staff, and students including two representatives from Divest Barnard. The Task Force collaborated throughout 2016 and 2017 to compile research about the strategies and impacts of fossil fuel divestments historically and at different higher education institutions. The Task Force eventually produced a final report which recommended that the Board of Trustees divest from fossil fuel companies that deny climate science. The Divest Barnard representatives maintained meeting agendas, draft reports, presentation slides, research publications, and notes from their participation in the Task Force, all of which are now located in Box 9, Folders 9-11 in the Divest Barnard collection. Here are a few materials that illustrate the development of the Task Force's administration, research, and recommendations: 
 
-Members of Divest Barnard became involved in the Presidential Task Force to Examine Divestment...
+This draft of the Task Force's final report, which is undated but likely authored during the fall of 2016, includes over 50 pages of research on climate change and fossil fuel divestment at higher education institutions: 
 
-*Need to scan docs from Box 1, Folders 9-11*
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf10"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder9_2016-07-29.pdf", "#my-pdf10");</script>
+{% include modal.html button="Citation: 'Frequently asked questions and arguments'" color="success" title="Citation9" text="Draft of Final Report of Presidential Task Force to Examine Divestment, undated. Barnard College Presidential Task Force to Examine Divestment Administrative, Reports, and Other Materials, 2016 - 2017, Box: 1, Folder: 9. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
+
+
+
 
 ----------
 
