@@ -7,7 +7,9 @@ Divestment, also known as divestiture, refers to when a business sells off some 
 
 A divestment campaign involves coordinated efforts by people who oppose an institution’s investments or business ties to particular types of companies, usually for political or ethical reasons. Divestment campaigns in higher education have typically been driven by student organizers and activists who plan coordinated actions on campuses to place pressure on administrators to cut financial ties countries or businesses which contribute to mass death, violence, social injustice, and/or environmental destruction. 
 
-Here are some materials that document the response of Barnard administration to divestment campaigns: 
+Here are some materials that document the response of Barnard administration to divestment campaigns. 
+
+----------
 
 ## Divestment from South Africa
 
@@ -51,7 +53,6 @@ The Board's official resolution to divest from businesses with operations in Sou
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box8_1985-05-29.pdf", "#my-pdf3");</script>
 {% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, May 29, 1985" color="success" title="Citation4" text="Excerpt from Board of Trustees meeting minutes, May 29, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
-
 This letter from Barnard President Ellen Futter, located in the Correspondence sub-series of the Board of Trustees Records, announced the Board's complete divestment from South Africa to the wider Barnard community:
 
 <style>
@@ -93,18 +94,22 @@ Following calls from Nelson Mandela for US institutions to reinvest in South Afr
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box9_1994-02-16.pdf", "#my-pdf7");</script>
 {% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 19, 1994" color="success" title="Citation9" text="Excerpt from Board of Trustees meeting minutes, February 19, 1994. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
 
+----------
+
 ## Divestment from Israel
 Adminsitrative materials related to campus debates about Israel-Palestine appear most prominently in [Series 6](https://collections.barnard.edu/public/repositories/2/archival_objects/24501) of the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332). Series 6  contains correspondence between Barnard College President Judith R. Shapiro (1994-2008) and academic departments, professors, administrators, administrative departments, students, and donors.
 
-Shapiro penned this letter on November 7, 2002 in response to a petition signed by Barnard and Columbia community members calling on academic institutions to sanction Israel in response to increased violence in Israel-Palestine during a major uprising of Palestinians known as the Second Intifada. 
+Shapiro released [this statement](https://collections.barnard.edu/public/repositories/2/archival_objects/24530) on November 7, 2002 in response to a petition signed by Barnard and Columbia community members calling on academic institutions to sanction Israel in response to increased violence in Israel-Palestine during a major uprising of Palestinians known as the Second Intifada. 
 
 {% include figure.html img="BC05-22_Box199_Folder9.jpg" alt="Statement from Judith Shapiro on Divestment from Israel" caption="Barnard College statement on divestment from Israel, November 7, 2002" width="75%" %}
 {% include modal.html button="Citation: Barnard College statement on divestment from Israel, November 7, 2002" color="success" title="Citation10" text="Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections." %}
 
+----------
+
 ## Divestment from fossil fuels
 The student-led movement for fossil fuel divestment in the US saw significant growth in the 2010s. In their article titled "Fossil fuel divestment in US higher education: student-led organizing for climate justice," Jessica Grady-Benson and Brinda Sarathy observe two primary motivations for students' increased climate activism: "On one hand, the student movement for FFD may be understood as a response to years of inadequate political action to address climate change and the social consequences of fossil fuel extraction and production (O’Neill and Oppenheimer 2002, McCright and Dunlap 2003, Juhasz 2009, Wachholz et al. 2014, Klein 2014). On the other hand, it is also an alternative to insufficient attempts at individualised environmental responsibility which encourages consumer-based approaches such as personal carbon footprint reduction." 
 
-The campaign for fossil fuel divestment at Barnard is preserved in the Barnard Archives primarily within the Divest Barnard collection. Divest Barnard was a student organization founded in 2014 that actively organized protest actions, educational events, and communications with Barnard administrators with the goal of pressuring Barnard admin to divest from fossil fuel companies contributing to global climate change. 
+The campaign for fossil fuel divestment at Barnard is preserved in the Barnard Archives primarily within the [Divest Barnard collection](https://collections.barnard.edu/public/repositories/2/resources/381). Divest Barnard was a student organization founded in 2014 that actively organized protest actions, educational events, and communications with Barnard administrators with the goal of pressuring Barnard admin to divest from fossil fuel companies contributing to global climate change. 
 
 {% capture text %}
 This graphic shows a timeline of Divest Barnard's activities from its founding in September 2014 through September 2015.
@@ -113,7 +118,7 @@ Explore the full Divest Barnard finding aid [here]([https://getbootstrap.com/doc
 {% endcapture %}
 {% include card.html text=text header="Divest Barnard" title="Title example" img="BC37-35_Box1_Folder1_1.jpg" %}
 
-Members of Divest Barnard compiled research and publications regarding the broader movement for fossil fuel divestment. Sharing resources and information across institutions throughout the country was important for organizing effective actions and communications. Here are a couple examples from Box 1, Folder 1 of the Divest Barnard Collection: 
+Members of Divest Barnard compiled research and publications regarding the broader movement for fossil fuel divestment. Sharing resources and information across institutions throughout the country was important for organizing effective actions and communications. Here are a couple examples from [Box 1, Folder 1](https://collections.barnard.edu/public/repositories/2/archival_objects/5803) of the Divest Barnard collection: 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -121,7 +126,7 @@ Members of Divest Barnard compiled research and publications regarding the broad
 <div id="my-pdf8"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1_2.pdf", "#my-pdf8");</script>
-{% include modal.html button="Citation:'Divestment 101: Climate Justice and the Seven Sisters.'" color="success" title="Citation9" text="'Divestment 101: Climate Justice and the Seven Sisters,'Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: 'Divestment 101: Climate Justice and the Seven Sisters.'" color="success" title="Citation9" text="'Divestment 101: Climate Justice and the Seven Sisters,'Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -129,15 +134,21 @@ Members of Divest Barnard compiled research and publications regarding the broad
 <div id="my-pdf9"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1_3.pdf", "#my-pdf9");</script>
-{% include modal.html button="Citation:'Frequently asked questions and arguments'" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: 'Frequently asked questions and arguments'" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
+Members of Divest Barnard became involved in the Presidential Task Force to Examine Divestment...
 
+Need to scan docs from Box 1, Folders 9-11
+
+----------
 
 ## Questions & activity for classes/workshops: 
 {% include accordion.html title1="Document Analysis Questions" text1="<ol><li>What is the document? Who created the document, when did they create it, where did they created, why did they create it, and how did they create it?</li><li>Where does your eye go first? What do you see that you didn’t expect?</li><li>What is not communicated in the document and why?</li><li>What can you infer about the broader campus, city, national, and/or international context in which a particular material was created?</li><li>How would you contextualize this item within a larger research project or question? What other types of sources would you need to answer your questions about this item?</li></ol>" title2="Divestment Questions" text2="<ol><li>What is different about the language and tone that administrators use when communicating to students about divestment compared to when students communicate to other students? Or when administrators communicate with other administrators?</li><li>In what ways do/could these materials serve as precedent for our current moment?</li></ol>" title3="Group Activity" text3="Work collaboratively to develop a digital timeline of divestment campaigns at Barnard using a platform like [Knight Lab’s Timeline JS](https://timeline.knightlab.com/). Small groups of students/participants could each create a timeline for one particular divestment campaign (e.g. South African apartheid, fossil fuels), or each group can be responsible for adding 2-3 events to a collective timeline that includes all types of divestment campaigns."  %}
 
+----------
+
 ### Citations
-{% include accordion.html title1="Archival Materials" text1="<ol><li> [Board of Trustees meeting minutes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25764) </li><li>[Board of Trustees meeting minutes, 1989 - 2003, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25765)</li><li>[Correspondence, 1970s-1980s, Sub-series 2.3, Box: 39, Folder 3. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25891)</li><li>[Committee on Investments, 1982 - 1990, Sub-series 3.5, Box: 63, Folders: 5-6. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25960)</li><li>[Committee on Investments, 1990 - 1997, Sub-series 3.5, Box: 64, Folders: 1-9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/25961)</li><li>[Clippings, Series 1, Box: 32, South Africa. Office of Communications records, BC05-08. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/265)</li><li>[Barbara Schmitter correspondence and datebooks, 1988 - 1993, Subseries 1.1, Box: 3, Correspondence Spring 1993. Deans’ Office for Advising & Support Records, BC05-15. Barnard Archives and Special Collections](https://collections.barnard.edu/public/repositories/2/archival_objects/22395)</li></ol>" 
+{% include accordion.html title1="Archival Materials" text1="<ol><li>Board of Trustees meeting minutes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Board of Trustees meeting minutes, 1989 - 2003, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Correspondence, 1970s-1980s, Sub-series 2.3, Box: 39, Folder 3. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Committee on Investments, 1982 - 1990, Sub-series 3.5, Box: 63, Folders: 5-6. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Committee on Investments, 1990 - 1997, Sub-series 3.5, Box: 64, Folders: 1-9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections.</li><li>Divest Barnard Collection, 2010-2017; Box and Folder or URL; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li></ol>" 
 
 title2="Notes" text2="<ol><li>Bylaws of Barnard College as of June 7, 2023, BC-01_001. Board of Trustees Records, 1882-2023; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li><li>Grady-Benson, Jessica, and Brinda Sarathy. 2016. “Fossil Fuel Divestment in US Higher Education: Student-Led Organising for Climate Justice.” Local Environment 21 (6): 661–81. doi:10.1080/13549839.2015.1009825.</li></ol>" %}
 
