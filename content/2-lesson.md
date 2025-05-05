@@ -34,17 +34,42 @@ This letter from Barnard President Ellen Futter, located in the Correspondence s
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box39_Folder3.pdf", "#my-pdf");</script>
 {% include modal.html button="Citation" color="success" title="Citation" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
-From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] For example, Barnard trustee Richard Reiss seems to have been inquiring about the extent of the polucy in 1989. 
+From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] Boxes 63 and 64 in Subseries 3.5 cover the 1980s and 1990s, at which time the College's policies on South African investments were often under discussion. 
 
-{% include figure.html img="BC01-01_Box63_Folder6_2.jpg" alt="Investment Committee meeting minutes" caption="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989" width="75%" %}
-{% include modal.html button="Citation" color="success" title="Citation" text="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf2"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf2");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder5.pdf", "#my-pdf2");</script>
+{% include modal.html button="Citation" color="success" title="Citation" text="Barnard Board of Trustees Investment Committee meeting minutes, February 12,1985. Board of Trustees Records, 1882-2023; Box 63, Folder 5; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf3"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder6_1.pdf", "#my-pdf3");</script>
 {% include modal.html button="Citation" color="success" title="Citation" text="South Africa Policy, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
+
+{% include figure.html img="BC01-01_Box63_Folder6_2.jpg" alt="Investment Committee meeting minutes" caption="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989" width="75%" %}
+{% include modal.html button="Citation" color="success" title="Citation" text="Barnard Board of Trustees Investment Committee meeting minutes, February 7, 1989. Board of Trustees Records, 1882-2023; Box 63, Folder 6; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf4"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box64_Folder4.pdf", "#my-pdf4");</script>
+{% include modal.html button="Citation" color="success" title="Citation" text="Memo from Kathryn Rodgers to Glenn H. Greenburg including materials related to South Africa divestment policy and discussions of reinvestment, November 23, 1993. Board of Trustees Records, 1882-2023; Box 64, Folder 4; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
+
+## Divestment from Israel
+Adminsitrative materials related to campus debates about Israel-Palestine appear most prominently in [Series 6](https://collections.barnard.edu/public/repositories/2/archival_objects/24501) of the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332). Series 6  contains correspondence between Barnard College President Judith R. Shapiro (1994-2008) and academic departments, professors, administrators, administrative departments, students, and donors.
+
+Shapiro penned this letter on November 7, 2002 in response to a petition signed by Barnard and Columbia community members calling on academic institutions to sanction Israel in response to increased violence in Israel-Palestine during a major uprising of Palestinians known as the Second Intifada. 
+
+{% include figure.html img="BC05-22_Box199_Folder9.jpg" alt="Statement from Judith Shapiro on Divestment from Israel" caption="Barnard College statement on divestment from Israel, November 7, 2002" width="75%" %}
+{% include modal.html button="Citation" color="success" title="Citation" text="Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
 ## Divestment from fossil fuels
 
