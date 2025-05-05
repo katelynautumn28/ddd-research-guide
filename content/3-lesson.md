@@ -4,8 +4,25 @@ nav: Dissent & Discipline
 description: >
     This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
 ---
+## Vietnam War
 
-## South African apartheid
+-------
+
+## Racism & Oppression
+
+-------
+
+## South African Apartheid
+
+-------
+
+## Audobon Ballroom
+
+-------
+
+## Reproductive Rights
+
+-------
 
 ## For classes/workshops
 
