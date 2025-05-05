@@ -20,11 +20,20 @@ Explore the full digitized Barnard Bulletin collection  [here]([https://getboots
 {% endcapture %}
 {% include card.html text=text header="Barnard Bulletin, April 12, 1973" title="Student support for divestment campaigns" img="Barnard Bulletin 1973 divest.png" %}
 
-The Board of Trustees Records (BC01.01) in the Barnard Archives includes several materials that shed light on the College administration's discussions of divestment. By examining the Board's meeting minutes, we see that the Board began discussing divestment from South Africa in earnest in the early 1980s:
+The Board of Trustees Records (BC01.01) in the Barnard Archives includes many materials that shed light on the College administration's discussions of divestment. In the wake of intense student protests and the well-documented occupation of Hamilton Hall in April 1985, the Board of Trustees began taking concrete actions to enact an official divestment policy on South Africa business holdings in spring 1985. Here are a few excerpts of meeting minutes contained in the February 1984-December 1985 volume of meeting minutes, located in Series 1, Box 8 of the Board of Trustees Records. 
 
-minutesminutesminutesminutes
+
+
 
 This letter from Barnard President Ellen Futter, located in the Correspondence sub-series of the Board of Trustees Records, announced the Board's complete divestment from South Africa to the wider Barnard community:
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf2"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder5.pdf", "#my-pdf2");</script>
+{% include modal.html button="Citation" color="success" title="Citation" text="Barnard Board of Trustees Investment Committee meeting minutes, February 12, 1985. Board of Trustees Records, 1882-2023; Box 63, Folder 5; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -35,14 +44,6 @@ This letter from Barnard President Ellen Futter, located in the Correspondence s
 {% include modal.html button="Citation" color="success" title="Citation" text="Ellen Futter to the Board of Trustees, August 28, 1985. Board of Trustees Records, 1882-2023; Box 39, Folder 3; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
 From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board.”[1.] Boxes 63 and 64 in Subseries 3.5 cover the 1980s and 1990s, at which time the College's policies on South African investments were often under discussion. 
-
-<style>
-.pdfobject-container { height: 500px; border: 1px solid #ccc; }
-</style>
-<div id="my-pdf2"></div>
-<script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC01-01_Box63_Folder5.pdf", "#my-pdf2");</script>
-{% include modal.html button="Citation" color="success" title="Citation" text="Barnard Board of Trustees Investment Committee meeting minutes, February 12,1985. Board of Trustees Records, 1882-2023; Box 63, Folder 5; Barnard Archives and Special Collections, Barnard Library, Barnard College." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
