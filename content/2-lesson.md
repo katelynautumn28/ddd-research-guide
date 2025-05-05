@@ -1,6 +1,7 @@
 ---
 title: Researching Divestment
 nav: Divestment
+topics: South African apartheid; Fossil fuels; Israel; Palestine; Board of Trustees; President's Office
 ---
 
 Divestment, also known as divestiture, refers to when a business sells off some assets (e.g. stocks, property, subsidiaries) to achieve some financial, ethical, or political goal. To divest from a business or class of businesses (e.g. energy companies that utilize fossil fuels) means to end financial and business relationships with them so neither party may continue to benefit financially from the other. 
@@ -116,7 +117,7 @@ This graphic shows a timeline of Divest Barnard's activities from its founding i
 Location: Divest Barnard Collection, 2010-2017 (BC37-35); Box 1, Folder 1; Barnard Archives and Special Collections.
 Explore the full Divest Barnard finding aid [here]([https://getbootstrap.com/docs/4.1/components/card/](https://collections.barnard.edu/public/repositories/2/resources/381)).
 {% endcapture %}
-{% include card.html text=text header="Divest Barnard" title="Title example" img="BC37-35_Box1_Folder1_1.jpg" %}
+{% include card.html text=text header="Divest Barnard" title="Organizational timeline" img="BC37-35_Box1_Folder1_1.jpg" %}
 
 Members of Divest Barnard compiled research and publications regarding the broader movement for fossil fuel divestment. Sharing resources and information across institutions throughout the country was important for organizing effective actions and communications. Here are a couple examples from [Box 1, Folder 1](https://collections.barnard.edu/public/repositories/2/archival_objects/5803) of the Divest Barnard collection: 
 
@@ -136,9 +137,10 @@ Members of Divest Barnard compiled research and publications regarding the broad
 <script>PDFObject.embed("https://katelynautumn28.github.io/research-barnard-admin/images/BC37-35_Box1_Folder1_3.pdf", "#my-pdf9");</script>
 {% include modal.html button="Citation: 'Frequently asked questions and arguments'" color="success" title="Citation9" text="'Frequently asked questions and arguments,' Administrative and Publicity Materials, 2014 - 2017, Box: 1, Folder: 1. Divest Barnard, BC37-35. Barnard Archives and Special Collections." %}
 
+
 Members of Divest Barnard became involved in the Presidential Task Force to Examine Divestment...
 
-Need to scan docs from Box 1, Folders 9-11
+*Need to scan docs from Box 1, Folders 9-11*
 
 ----------
 
