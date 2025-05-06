@@ -6,7 +6,7 @@ description: >
 ---
 ## Vietnam War
 
-{% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, "POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS," May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 -------
 
