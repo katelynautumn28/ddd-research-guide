@@ -6,7 +6,7 @@ description: >
 ---
 ## Vietnam War
 
-Student protestors submitted written statements regarding their participation in _____ demonstration at Low Library on May 7, 1965. 
+Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
 
 
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
@@ -18,6 +18,10 @@ Student protestors submitted written statements regarding their participation in
 -------
 
 ## South African Apartheid
+
+<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+<script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf11");</script> {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1895." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1895. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+
 
 -------
 
