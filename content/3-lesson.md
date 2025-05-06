@@ -19,8 +19,8 @@ Student protestors submitted written statements regarding their participation in
 
 ## South African Apartheid
 
-<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
-<script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf11");</script> {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1895." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1895. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf11");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1895." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1895. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
 -------
