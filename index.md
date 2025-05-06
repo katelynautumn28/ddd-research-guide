@@ -8,7 +8,7 @@ layout: page
 {% include figure.html img="Protest_Strike_Bway_72.jpg" alt="intro image here" caption="March on Broadway, April 18, 1972. BC17-10 Photographs - Student Activities and Student Life. Barnard Digital Collections." width="75%" %}
 
 ## About 
-This research guide provides digitized images of administrative records that may be useful for conducting research on the history of divestment, dissent, and discipline on Barnard’s campus. This guide may also be used as the basis for a class or workshop on how to conduct archival research on histories of activism and protest.
+This research guide provides digitized images of administrative records preserved in the [Barnard Archives & Special Collections](https://archives.barnard.edu/) that may be useful for conducting research on the history of divestment, dissent, and discipline at Barnard College. This guide may also be used as the basis for a class or workshop on how to conduct archival research on histories of activism and protest.
 
 This guide was created by Katelyn Landry, a Barnard Archives Graduate Fellow during the 2024-25 academic year. It was created within the context of intense political and social turmoil in the U.S, especially in higher education institutions. Recent events have fueled increased requests from researchers for materials related to histories of campus protest and activism. In response to that demand, this guide is intended to aid researchers in identifying relevant materials for their inquiries. 
 
