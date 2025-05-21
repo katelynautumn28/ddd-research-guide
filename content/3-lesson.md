@@ -18,14 +18,25 @@ On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and 
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> 
 {% include modal.html button="Citation: Letter from Zane Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation" text="Letter from Zane Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
-Berzins was one of several Barnard students who wrote to Dean Henry Boorse, Barnard's Dean of the Faculty, describing the nature of the protest and their participation in it to protest the police's violence toward students and the administration's disciplinary actions taken against a few students. However, Barnard President Martha Peterson, responded to these letters with further disciplinary penalties: 
+Berzins was one of several Barnard students who wrote to Dean Henry Boorse, Barnard's Dean of the Faculty, describing the nature of the protest and their participation in it to protest the police's violence toward students and the administration's disciplinary actions taken against a few students. Some students signed boilerplate statements confirming their participation or support for the protest, and voicing their opposition to the administration's actions to discipline protestors. 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf12"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf12");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf12");</script> 
+{% include modal.html button="Citation: Statements from Barnard students protesting disciplinary actions for May 7, 1965 protest, circa May 1965." color="success" title="Citation" text="Statements from Barnard students protesting disciplinary actions for May 7, 1965 protest, circa May 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+
+
+However, Barnard President Martha Peterson, responded to these letters with further disciplinary penalties: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf13"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf13");</script> 
 {% include modal.html button="Citation: Letter from President Martha Peterson to Zane Berzins, May 21, 1965." color="success" title="Citation" text="Letter from President Martha Peterson to Zane Berzins, May 21, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
