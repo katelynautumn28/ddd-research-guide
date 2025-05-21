@@ -99,8 +99,18 @@ The events of April 30 also prompted the following statements from the student m
 </style>
 <div id="my-pdf18"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf17");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf18");</script>
 {% include modal.html button="Citation: Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968." color="success" title="Citation" text="Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+Parents responses
+images/BC05-08_Box20-Riots-11.pdf
+images/BC05-08_Box20-Riots-1.pdf
+
+Another protest on May 21
+images/BC05-08_Box20-Riots-14.pdf
+images/BC05-08_Box20-Riots-9.pdf
+
+
 
 images/BC05-08_Box20-Riots-1 thru 14
 
