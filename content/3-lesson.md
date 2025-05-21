@@ -6,7 +6,7 @@ description: >
 ---
 ## Anti-War and Civil Rights Protests
 
-The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. The materials presented in this section shed light on Barnard students' involvement in and support for these protests, as well as the responses from Barnard alums, administration, and parents. 
+The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. The materials presented in this section shed light on Barnard students' involvement in and support for these protests, as well as the responses from Barnard alums, administration, and parents. The materials featured in this section are sourced from the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332) and [Office of Communications Records](https://collections.barnard.edu/public/repositories/2/resources/35)  
 
 On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library during an annual awards ceremony for the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
 
@@ -35,7 +35,7 @@ In this letter, Jemera Rone Flug (BC '66) criticizes what she calls the administ
 </style>
 <div id="my-pdf13"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf13");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_4.pdf", "#my-pdf13");</script> 
 {% include modal.html button="Citation: Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965." color="success" title="Citation" text="Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 However, Barnard President Martha Peterson responded to many of these testimonies, including the letter from Zane Berzins, with further disciplinary action:
@@ -52,7 +52,6 @@ The Judicial Council mentioned by President Peterson was created just one year p
 
 The disciplinary procedures that the Judicial Council undertook in response to anti-war protests are illuminated in these letters from Margaret Emery, Chairman of the Judicial Council, to Jessica Holland regarding her protest activities in January and February of 1967: 
 
-
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
@@ -61,6 +60,25 @@ The disciplinary procedures that the Judicial Council undertook in response to a
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_5.pdf", "#my-pdf15");</script> 
 {% include modal.html button="Citation: Disciplinary letters from Barnard Judicial Council to Jessica Holland, 1967." color="success" title="Citation" text="Disciplinary letters from Barnard Judicial Council to Jessica Holland, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
+Barnard President Rosemary Park confirmed the official censure of Holland in this letter: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf16"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_2.jpg", "#my-pdf16");</script>
+{% include modal.html button="Citation: Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967." color="success" title="Citation2" text="Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+
+In the following letter from the Judicial Council, they issued what appears to be a warning to Suzanne Crowell for her participation in a protest of an NROTC course:
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf17"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.jpg", "#my-pdf17");</script>
+{% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967." color="success" title="Citation2" text="Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
@@ -75,9 +93,9 @@ The disciplinary procedures that the Judicial Council undertook in response to a
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf16"></div>
+<div id="my-pdf17"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf16");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf17");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
@@ -98,9 +116,9 @@ The disciplinary procedures that the Judicial Council undertook in response to a
 -------
 
 ### Citations
-{% include accordion.html title1="Archival Materials" text1="<ol><li>Board of Trustees meeting minutes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Board of Trustees meeting minutes, 1989 - 2003, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Correspondence, 1970s-1980s, Sub-series 2.3, Box: 39, Folder 3. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Committee on Investments, 1982 - 1990, Sub-series 3.5, Box: 63, Folders: 5-6. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Committee on Investments, 1990 - 1997, Sub-series 3.5, Box: 64, Folders: 1-9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections.</li><li>Divest Barnard Collection, 2010-2017; Box and Folder or URL; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li></ol>"
+{% include accordion.html title4="Archival Materials" text4="<ol><li>Board of Trustees meeting minutes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Board of Trustees meeting minutes, 1989 - 2003, Sub-series 1.1, Box: 9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Correspondence, 1970s-1980s, Sub-series 2.3, Box: 39, Folder 3. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Committee on Investments, 1982 - 1990, Sub-series 3.5, Box: 63, Folders: 5-6. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Committee on Investments, 1990 - 1997, Sub-series 3.5, Box: 64, Folders: 1-9. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.</li><li>Barnard College statement on divestment from Israel, 2002-11-07, Subseries 6.1, Box: 199, Folder: 9. President's Office records, BC05-22. Barnard Archives and Special Collections.</li><li>Divest Barnard Collection, 2010-2017; Box and Folder or URL; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li></ol>"
 
-title2="Notes" text2="<ol><li>Bylaws of Barnard College as of June 7, 2023, BC-01_001. Board of Trustees Records, 1882-2023; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li><li>Grady-Benson, Jessica, and Brinda Sarathy. 2016. “Fossil Fuel Divestment in US Higher Education: Student-Led Organising for Climate Justice.” Local Environment 21 (6): 661–81. doi:10.1080/13549839.2015.1009825.</li></ol>" %}
+title5="Notes" text5="<ol><li>Bylaws of Barnard College as of June 7, 2023, BC-01_001. Board of Trustees Records, 1882-2023; Barnard Archives and Special Collections, Barnard Library, Barnard College.</li><li>Grady-Benson, Jessica, and Brinda Sarathy. 2016. “Fossil Fuel Divestment in US Higher Education: Student-Led Organising for Climate Justice.” Local Environment 21 (6): 661–81. doi:10.1080/13549839.2015.1009825.</li></ol>" %}
 
 
 
