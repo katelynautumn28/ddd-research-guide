@@ -71,13 +71,27 @@ In the following letter from the Judicial Council, they issued what appears to b
 <div id="my-pdf16"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.jpg", "#my-pdf16");</script>
-{% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+{% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 
-Starting in April 1968, Columbia and Barnard students launched several major demonstrations and occupations protesting the universities' complicity in the Vietnam War.
+Starting in April 1968, student members andn supporters of Columbia's Students for a Democratic Society (SDS) chapter and the Society of Afro-American Students (SAS) launched several major demonstrations and occupations protesting the universities' involvement in the Vietnam War and construction of the Morningside Park gymnasium. Beginning with an SDS Rally on Tuesday, April 23...
+
+The occupations were brought to a violent end on Tuesday, April 30, 1968 when New York City police fordibly removed student protestors, resulting in over 700 arrests and at least 148 injuries. 
+
+Two telegrams from Barnard alums sent immediately after the police raid demonstrate their alarm and disapproval of the use of police force:
+
+{% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+{% include figure.html img="BC05-08_Box20-Riots-10.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Yola Englander Schlosser '64 to Barnard President Martha Peterson that reads, 'IN VIEW OF THE VIOLENCE PERPETRATED ON STUDENTS FACULTY AND COMMUNITY ALIKE BY THE ADMINISTRATION OF COLUMBIA UNIVERSITY I URGE THAT BARNARD COLLEGE RAISE A VOICE OF SANITY AND SUPPORT OF ALL STUDENTS AND FACULTY FIGHTING FOR A PART IN UNIVERSITY POLICY MAKING AND FOR JUSTICE FOR THE ENTIRE COMMUNITY,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
 images/BC05-08_Box20-Riots-1 thru 14
 
-{% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+
+
+Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from support for student protestors to condemnation of them: 
+
+images/BC05-08_Box20-Riots-1.pdf
 
  images/BC05-22_Box50_Folder1_1 thru 6
 
