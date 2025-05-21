@@ -1,8 +1,7 @@
 ---
 title: Researching Dissent & Discipline
 nav: Dissent & Discipline
-description: >
-    This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
+topics: Vietnam War; Black Panthers; South African apartheid; Audobon Ballroom; Reproductive Rights; Barnard Judicial Council; Student discipline; Censure; Suspension; Expulsion
 ---
 ## Anti-War and Civil Rights Protests
 
