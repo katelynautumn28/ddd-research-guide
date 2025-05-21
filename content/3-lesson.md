@@ -4,7 +4,9 @@ nav: Dissent & Discipline
 description: >
     This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
 ---
-## Vietnam War
+## Anti-War and Civil Rights Protests
+
+The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. 
 
 Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
 
