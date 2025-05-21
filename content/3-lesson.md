@@ -10,8 +10,13 @@ The student uprisings at Columbia University during the late 1960s and early 197
 
 On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library to protest the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
 
-<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
-{% include modal.html button="Citation: Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation2" text="Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf11"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> 
+{% include modal.html button="Citation11: Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation" text="Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
 
@@ -26,7 +31,12 @@ Student protestors submitted written statements regarding their participation in
 
 ## South African Apartheid
 
-<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf12");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf12"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf12");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
