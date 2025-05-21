@@ -8,7 +8,7 @@ description: >
 
 The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. The materials presented in this section shed light on Barnard students' involvement in and support for these protests, as well as the responses from Barnard alums, administration, and parents. 
 
-On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library to protest the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
+On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library during an annual awards ceremony for the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -28,18 +28,26 @@ Berzins was one of several Barnard students who wrote to Dean Henry Boorse, Barn
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf12");</script> 
 {% include modal.html button="Citation: Statements from Barnard students protesting disciplinary actions for May 7, 1965 protest, circa May 1965." color="success" title="Citation" text="Statements from Barnard students protesting disciplinary actions for May 7, 1965 protest, circa May 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
-
-However, Barnard President Martha Peterson, responded to these letters with further disciplinary penalties: 
+In this letter, Jemera Rone Flug (BC '66) criticizes what she calls the administration's "complete lack of respect for due process" in the disciplinary hearings against student protestors: 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf13"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf13");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf13");</script> 
+{% include modal.html button="Citation: Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965." color="success" title="Citation" text="Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+
+However, Barnard President Martha Peterson, responded to many of these testimonies, including the letter from Zane Berzins, with further disciplinary action:
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf14"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf14");</script> 
 {% include modal.html button="Citation: Letter from President Martha Peterson to Zane Berzins, May 21, 1965." color="success" title="Citation" text="Letter from President Martha Peterson to Zane Berzins, May 21, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
-Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
 
 
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
