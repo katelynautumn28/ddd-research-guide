@@ -74,11 +74,27 @@ In the following letter from the Judicial Council, they issued what appears to b
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.jpg", "#my-pdf16");</script>
 {% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
+
+Starting in April 1968, Columbia and Barnard students launched several major demonstrations and occupations protesting the universities' complicity in the Vietnam War.
+images/BC05-08_Box20-Riots-1 thru 14
+
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+ images/BC05-22_Box50_Folder1_1 thru 6
+
+
+October 15, 1969 moratorium
+images/BC05-22_Box50_Folder2_2 thru 7
+
+1972 strike 
+images/BC05-22_Box50_Folder5_1 through 5
 
 -------
 
 ## Black Power & Civil Rights
+
+images/BC05-22_Box50_Folder4_1.jpg
+images/BC05-22_Box50_Folder2_8.jpg
 
 -------
 
@@ -97,10 +113,11 @@ In the following letter from the Judicial Council, they issued what appears to b
 
 ## Audobon Ballroom
 
+
 -------
 
 ## Reproductive Rights
-
+images/BC05-22_Box50_Folder3_1.jpg
 -------
 
 ## For classes/workshops
