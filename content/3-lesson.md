@@ -10,7 +10,7 @@ The student uprisings at Columbia University during the late 1960s and early 197
 
 On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library to protest the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
 
-<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
 {% include modal.html button="Citation: Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation2" text="Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
