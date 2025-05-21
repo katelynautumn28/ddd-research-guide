@@ -70,7 +70,7 @@ In the following letter from the Judicial Council, they issued what appears to b
 </style>
 <div id="my-pdf16"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.jpg", "#my-pdf16");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.pdf", "#my-pdf16");</script>
 {% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 
