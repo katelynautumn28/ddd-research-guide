@@ -38,7 +38,7 @@ In this letter, Jemera Rone Flug (BC '66) criticizes what she calls the administ
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf13");</script> 
 {% include modal.html button="Citation: Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965." color="success" title="Citation" text="Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
-However, Barnard President Martha Peterson, responded to many of these testimonies, including the letter from Zane Berzins, with further disciplinary action:
+However, Barnard President Martha Peterson responded to many of these testimonies, including the letter from Zane Berzins, with further disciplinary action:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -48,6 +48,18 @@ However, Barnard President Martha Peterson, responded to many of these testimoni
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf14");</script> 
 {% include modal.html button="Citation: Letter from President Martha Peterson to Zane Berzins, May 21, 1965." color="success" title="Citation" text="Letter from President Martha Peterson to Zane Berzins, May 21, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
+The Judicial Council mentioned by President Peterson was created just one year prior in 1964. According to the 1965-66 Barnard Student Handbook, the Council comprised of 5-7 students who were elected by the student body and 2-4 faculty members elected by the faculty. The Dean of Studies and President of the College were ex officio members. However, there was no official student code of conduct at Barnard until 1971. Thus, the grounds on which the Judicial Council prosecuted students for non-academic offenses are murky. 
+
+The disciplinary procedures that the Judicial Council undertook in response to anti-war protests are illuminated in these letters from Margaret Emery, Chairman of the Judicial Council, to Jessica Holland regarding her protest activities in January and February of 1967: 
+
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf15"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_5.pdf", "#my-pdf15");</script> 
+{% include modal.html button="Citation: Disciplinary letters from Barnard Judicial Council to Jessica Holland, 1967." color="success" title="Citation" text="Disciplinary letters from Barnard Judicial Council to Jessica Holland, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
@@ -63,9 +75,9 @@ However, Barnard President Martha Peterson, responded to many of these testimoni
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf15"></div>
+<div id="my-pdf16"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf15");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf16");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
