@@ -6,7 +6,12 @@ description: >
 ---
 ## Anti-War and Civil Rights Protests
 
-The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. 
+The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. The materials presented in this section shed light on Barnard students' involvement in and support for these protests, as well as the responses from Barnard alums, administration, and parents. 
+
+On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library to protest the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
+
+<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+{% include modal.html button="Citation: Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation2" text="Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
 
@@ -21,8 +26,8 @@ Student protestors submitted written statements regarding their participation in
 
 ## South African Apartheid
 
-<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf11");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
-{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1895." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1895. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
+<style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style><script src="https://unpkg.com/pdfobject"></script> <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf12");</script> <style> .pdfobject-container { height: 500px; border: 1px solid #ccc; } </style>
+{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
 -------
