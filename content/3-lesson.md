@@ -62,23 +62,17 @@ The disciplinary procedures that the Judicial Council undertook in response to a
 
 Barnard President Rosemary Park confirmed the official censure of Holland in this letter: 
 
-<style>
-.pdfobject-container { height: 500px; border: 1px solid #ccc; }
-</style>
-<div id="my-pdf16"></div>
-<script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_2.jpg", "#my-pdf16");</script>
-{% include modal.html button="Citation: Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967." color="success" title="Citation2" text="Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+{% include figure.html img="BC05-22_Box35_Folder2_2.jpg" alt="Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967." caption="Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967." width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Letter from President Rosemary Park to Jessica Holland confirming censure, March 14, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
 
 In the following letter from the Judicial Council, they issued what appears to be a warning to Suzanne Crowell for her participation in a protest of an NROTC course:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf17"></div>
+<div id="my-pdf16"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.jpg", "#my-pdf17");</script>
-{% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967." color="success" title="Citation2" text="Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.jpg", "#my-pdf16");</script>
+{% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Countil to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
@@ -96,7 +90,7 @@ In the following letter from the Judicial Council, they issued what appears to b
 <div id="my-pdf17"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf17");</script>
-{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
+{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
 -------
