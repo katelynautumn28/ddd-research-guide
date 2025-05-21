@@ -16,7 +16,17 @@ On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and 
 <div id="my-pdf11"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> 
-{% include modal.html button="Citation11: Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation" text="Letter from Zan Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+{% include modal.html button="Citation: Letter from Zane Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation" text="Letter from Zane Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
+
+Berzins was one of several Barnard students who wrote to Dean Henry Boorse, Barnard's Dean of the Faculty, describing the nature of the protest and their participation in it to protest the police's violence toward students and the administration's disciplinary actions taken against a few students. However, Barnard President Martha Peterson, responded to these letters with further disciplinary penalties: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf12"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf12");</script> 
+{% include modal.html button="Citation: Letter from President Martha Peterson to Zane Berzins, May 21, 1965." color="success" title="Citation" text="Letter from President Martha Peterson to Zane Berzins, May 21, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Student protestors submitted written statements regarding their participation in an antiwar demonstration at Low Library on May 7, 1965. 
 
@@ -34,9 +44,9 @@ Student protestors submitted written statements regarding their participation in
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf12"></div>
+<div id="my-pdf15"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf12");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf15");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation2" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
