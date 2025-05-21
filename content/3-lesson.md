@@ -82,7 +82,25 @@ Two telegrams from Barnard alums sent immediately after the police raid demonstr
 
 {% include figure.html img="BC05-08_Box20-Riots-2.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Naomi Patz '62 to Barnard President Martha Peterson that reads, 'POLICE USE AGAINST STUDENTS BLACKENS COLUMBIAS NAME AGREE STUDENT DEMANDS,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
-{% include figure.html img="BC05-08_Box20-Riots-10.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Yola Englander Schlosser '64 to Barnard President Martha Peterson that reads, 'IN VIEW OF THE VIOLENCE PERPETRATED ON STUDENTS FACULTY AND COMMUNITY ALIKE BY THE ADMINISTRATION OF COLUMBIA UNIVERSITY I URGE THAT BARNARD COLLEGE RAISE A VOICE OF SANITY AND SUPPORT OF ALL STUDENTS AND FACULTY FIGHTING FOR A PART IN UNIVERSITY POLICY MAKING AND FOR JUSTICE FOR THE ENTIRE COMMUNITY,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation1" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-08_Box20-Riots-10.jpg" alt="Telegram, May 1, 1968" caption="A telegram from Barnard alum Yola Englander Schlosser '64 to Barnard President Martha Peterson that reads, 'IN VIEW OF THE VIOLENCE PERPETRATED ON STUDENTS FACULTY AND COMMUNITY ALIKE BY THE ADMINISTRATION OF COLUMBIA UNIVERSITY I URGE THAT BARNARD COLLEGE RAISE A VOICE OF SANITY AND SUPPORT OF ALL STUDENTS AND FACULTY FIGHTING FOR A PART IN UNIVERSITY POLICY MAKING AND FOR JUSTICE FOR THE ENTIRE COMMUNITY,' May 1, 1968" width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Citation" text="Telegram, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+The events of April 30 also prompted the following statements from the student members of the Executive Board of the Undergraduate Association and members of the Voting Faculty, Teaching Staff, and Administration: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf17"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-6.pdf", "#my-pdf17");</script>
+{% include modal.html button="Citation: Resolution of Members of the Executive Board of the Undergraduate Association, circa May 1968." color="success" title="Citation" text="Resolution of Members of the Executive Board of the Undergraduate Association, circa May 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf18"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf17");</script>
+{% include modal.html button="Citation: Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968." color="success" title="Citation" text="Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 images/BC05-08_Box20-Riots-1 thru 14
 
@@ -116,9 +134,9 @@ images/BC05-22_Box50_Folder2_8.jpg
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf17"></div>
+<div id="my-pdf19"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf17");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf19");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
