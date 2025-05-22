@@ -213,8 +213,8 @@ On December 14, 1992, approximately 100 students blockaded Hamilton Hall for sev
 </style>
 <div id="my-pdf31"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf31");</script>
-{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/columbia-spectator-01-19-1993.pdf", "#my-pdf31");</script>
+{% include modal.html button="Citation: Columbia Spectator, January 19, 1993." color="success" title="Citation" text="[Columbia Spectator, January 19, 1993. Columbia Spectator Archive, Columbia University Libraries.](https://spectatorarchive.library.columbia.edu/?a=d&d=cs19930119-01.1.1&e=-------en-20--1--txt-txIN-------)" %} 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
