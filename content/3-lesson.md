@@ -100,10 +100,6 @@ The events of April 30 also prompted the following statements from the student m
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf18");</script>
 {% include modal.html button="Citation: Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968." color="success" title="Citation" text="Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
-Parents responses
-images/BC05-08_Box20-Riots-11.pdf
-images/BC05-08_Box20-Riots-1.pdf
-
 In the aftermath of the April 30 "bust," several students who participated in the strike formed the Strike Coordinating Committee to organize a campus-wide strike at Columbia for the rest of the spring 1968 semester. 
 
 On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, which led to another violent police response in the early hours of May 22. This document presents a list of Barnard students who were arrested at this time: 
@@ -113,15 +109,37 @@ On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, w
 </style>
 <div id="my-pdf19"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf19");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-3.pdf", "#my-pdf19");</script>
+{% include modal.html button="Citation: Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968." color="success" title="Citation" text="Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+Columbia President Grayson Kirk and Vice President David Truman released statements strongly condemning the student protestors and promising disciplinary action.:
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf20"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-14.pdf", "#my-pdf20");</script>
+{% include modal.html button="Citation: Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968." color="success" title="Citation" text="Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf21"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf21");</script>
 {% include modal.html button="Citation: List of Barnard students arrested on May 21, 1968, undated." color="success" title="Citation" text="List of Barnard students arrested on May 21, 1968, undated. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
-images/BC05-08_Box20-Riots-14.pdf
+
+It is unclear whether there was a press statement from Barnard President Martha Peterson released to the public, however in this letter, Peterson expresses her hesitation to release such a statement: 
+
+
 
 
 Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from support for student protestors to condemnation of them: 
 
 images/BC05-08_Box20-Riots-1.pdf
+images/BC05-08_Box20-Riots-11.pdf
 
  images/BC05-22_Box50_Folder1_1 thru 6
 
@@ -146,9 +164,9 @@ images/BC05-22_Box50_Folder2_8.jpg
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf19"></div>
+<div id="my-pdf22"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf19");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf22");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 
