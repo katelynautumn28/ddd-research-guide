@@ -2,7 +2,6 @@
 title: Introduction
 nav: Intro
 ---
-{% include alert.html text="Need a more comprehensive introduction to archival research as a whole? Check out the [Archival Research at Barnard and Beyond](https://guides.library.barnard.edu/archivalresearch/archives) LibGuide, developed by Martha Tenney, Director of the Barnard Archives and Special Collections." align="center" color="success" %}
 
 ### What are administrative records?
 
@@ -27,3 +26,6 @@ Major administrative record collections at the Barnard Archives include:
 Administrative records are essential to documenting any institution’s history because they can illustrate and reveal the perspectives, strategies, and priorities of those whose decisions have profound impacts not only on the institution’s internal community, but also on the institution’s public reputation, financial state, and business relationships. Barnard’s administrative history and structures are unique in that they have always been intertwined with Columbia University.  
 
 Even when administrators attempt to improve the transparency and democratic nature of their decision-making, the larger institutional community may not always be able to access the details of the conversations or procedures leading to those decisions. Additionally, the specific opinions and impacts of individual actors may be obscured when policies are attributed to a group or office in the abstract. Records that are preserved in the archive may shed light on information and influences behind decisions that were not disclosed at the time, whether deliberately or not. 
+
+{% include alert.html text="Need a more comprehensive introduction to archival research as a whole? Check out the [Archival Research at Barnard and Beyond](https://guides.library.barnard.edu/archivalresearch/archives) LibGuide, developed by Martha Tenney, Director of the Barnard Archives and Special Collections." align="center" color="success" %}
+
