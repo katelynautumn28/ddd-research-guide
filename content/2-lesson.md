@@ -34,7 +34,7 @@ The [Board of Trustees Records](https://collections.barnard.edu/public/repositor
 <div id="my-pdf1"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC01-01_Box8_1985-02-13.pdf", "#my-pdf1");</script>
-{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 13, 1985" color="success" title="Citation" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections. Link to finding aid record: https://collections.barnard.edu/public/repositories/2/archival_objects/25764" %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 13, 1985" color="success" title="Citation" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. [Board of Trustees meeting minutes bound volumes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25764)" %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
