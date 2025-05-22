@@ -74,9 +74,7 @@ In the following letter from the Judicial Council, they issued what appears to b
 {% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 
-Starting in April 1968, student members andn supporters of Columbia's Students for a Democratic Society (SDS) chapter and the Society of Afro-American Students (SAS) launched several major demonstrations and occupations protesting the universities' involvement in the Vietnam War and construction of the Morningside Park gymnasium. Beginning with an SDS Rally on Tuesday, April 23...
-
-The occupations were brought to a violent end on Tuesday, April 30, 1968 when New York City police fordibly removed student protestors, resulting in over 700 arrests and at least 148 injuries. 
+Starting in April 1968, student members andn supporters of Columbia's Students for a Democratic Society (SDS) chapter and the Society of Afro-American Students (SAS) launched several major demonstrations and occupations protesting the universities' involvement in the Vietnam War and construction of the Morningside Park gymnasium. Beginning with a dual SDS and SAS rally at Columbia's Sun Dial at noon on Tuesday, April 23, demonstrations evolved into several days-ong occupations campus buildings by Barnard and Columbia students, as well as non-Columbia affiliated protestors. Hamilton Hall, Fayeweather Hall, Low Library, Avery Hall, and the Mathematics Hall, all on Columbia's campus, were occupied. The occupations were brought to a violent end on Tuesday, April 30, 1968 when New York City police fordibly removed student protestors, resulting in over 700 arrests and at least 148 injuries. 
 
 Two telegrams from Barnard alums sent immediately after the police raid demonstrate their alarm and disapproval of the use of police force:
 
