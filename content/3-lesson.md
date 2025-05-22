@@ -186,12 +186,9 @@ images/BC05-22_Box50_Folder5_1 through 5
 
 ## Black Power & Civil Rights
 
-images/BC05-22_Box50_Folder4_1.jpg
-
 {% include figure.html img="BC05-22_Box50_Folder2_8.jpg" alt="'Free Our Sisters Free Ourselves' flyer, November 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: 'Free Our Sisters Free Ourselves' flyer, November 1969" color="success" title="'Free Our Sisters Free Ourselves' flyer, November 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
 
 {% include figure.html img="BC05-22_Box50_Folder4_1.jpg" alt="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." caption="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." width="75%" %} {% include modal.html button="Citation: 'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." color="success" title="''Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
-
 
 -------
 
