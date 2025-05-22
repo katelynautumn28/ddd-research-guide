@@ -157,6 +157,16 @@ This memo from the Barnard Moratorium Committee lists an itinerary of events to 
 
 {% include figure.html img="BC05-22_Box50_Folder2_2.jpg" alt="Memo and itinerary from the Barnard Moratorium Committee, October 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: Barnard Moratorium Committee memo, 1969" color="success" title="Memo and itinerary from the Barnard Moratorium Committee, October 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
 
+This letter, assumed to be a draft due to its lack of signatures, was prepared by an unknown group of Barnard community members on Moratorium day to be sent to the President of the United States, Richard Nixon. The letter decries the escalation of the Vietnam War as well as the villanization of anti-war advocates and censure of anti-war speech: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf23"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder2_6.pdf", "#my-pdf23");</script>
+{% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation" text=Letter from Barnard community to US President Richard Nixon, October 15, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+
 images/BC05-22_Box50_Folder2_2 thru 7
 
 1972 strike 
