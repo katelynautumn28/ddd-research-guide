@@ -151,7 +151,11 @@ images/BC05-08_Box20-Riots-11.pdf
 
 The President's Office records contains materials that reflects Barnard's and Columbia's participation in the worldwide Moratorium to End the War in Vietnam on October 15, 1969.
 
-{% include figure.html img="BC05-22_Box50_Folder2_5.jpg" alt="Flyer for the Moratorium to End the War in Vietnam, 1969." caption="Flyer from the New York office of the Vietnam Moratorium Committee listing recommended protest activities for the Moratorium to End the War in Vietnam on October 15, 1969." width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Flyer for the Moratorium to End the War in Vietnam, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-22_Box50_Folder2_5.jpg" alt="Flyer for the Moratorium to End the War in Vietnam, 1969." caption="Flyer from the New York office of the Vietnam Moratorium Committee listing recommended protest activities for the Moratorium to End the War in Vietnam on October 15, 1969." width="75%" %} {% include modal.html button="Citation: Flyer for the Moratorium to End the War in Vietnam, 1969." color="success" title="Flyer for the Moratorium to End the War in Vietnam, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+
+This memo from the Barnard Moratorium Committee lists an itinerary of events to be held on Barnard's campus on Moratorium day: 
+
+{% include figure.html img="BC05-22_Box50_Folder2_2.jpg" alt="Memo and itinerary from the Barnard Moratorium Committee, October 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: Barnard Moratorium Committee memo, 1969" color="success" title="Memo and itinerary from the Barnard Moratorium Committee, October 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
 
 images/BC05-22_Box50_Folder2_2 thru 7
 
