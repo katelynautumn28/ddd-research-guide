@@ -2,6 +2,7 @@
 title: Introduction
 nav: Intro
 ---
+{% include alert.html text="Need a more comprehensive introduction to archival research as a whole? Check out the [Archival Research at Barnard and Beyond](https://guides.library.barnard.edu/archivalresearch/archives) LibGuide, developed by Martha Tenney, Director of the Barnard Archives and Special Collections." align="center" color="success" %}
 
 ### What are administrative records?
 
