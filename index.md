@@ -8,7 +8,7 @@ layout: page
 {% include figure.html img="BC05-08_Box20-Riots-10.jpg" alt="intro image here" caption="Telegram from Barnard alum Yola Englander Schlosser '64 to Barnard President Martha Peterson protesting police violence against anti-war student protestors, May 1, 1968." width="75%" %}
 
 ## About 
-This lesson plan provides primary source materials [Barnard Archives & Special Collections](https://archives.barnard.edu/) and discussion questions to guide workshops or classes focused on utilizing archival materials to research histories of divestment campaigns, student dissent, and student discipline at Barnard College. This plan may also be used as a roadmap for individual researchers seeking archival materials related to student activism and protest on campus.
+This lesson plan provides primary source materials from the [Barnard Archives & Special Collections](https://archives.barnard.edu/) and discussion questions to guide workshops or classes interested in utilizing archival materials to research histories of divestment campaigns, student dissent, and student discipline at Barnard College. This plan may also be used as a roadmap for individual researchers seeking archival materials related to student activism and protest on campus.
 
 This resource was created by Katelyn Landry, a Barnard Archives Graduate Fellow during the 2024-25 academic year. It was created within the context of intense political and social turmoil in the U.S, especially in higher education institutions. Recent events have fueled increased requests from researchers for materials related to histories of campus protest and activism. In response to that demand, this guide is intended to aid researchers in identifying relevant materials for their inquiries. 
 
