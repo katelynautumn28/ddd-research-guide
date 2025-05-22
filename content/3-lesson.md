@@ -16,7 +16,7 @@ On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and 
 </style>
 <div id="my-pdf11"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box35_Folder1_2.pdf", "#my-pdf11");</script> 
 {% include modal.html button="Citation: Letter from Zane Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965." color="success" title="Citation" text="Letter from Zane Berzins to Barnard Dean of the Faculty Henry Boorse, May 14, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Berzins was one of several Barnard students who wrote to Dean Henry Boorse, Barnard's Dean of the Faculty, describing the nature of the protest and their participation in it to protest the police's violence toward students and the administration's disciplinary actions taken against a few students. Some students signed boilerplate statements confirming their participation or support for the protest, and voicing their opposition to the administration's actions to discipline protestors. 
@@ -26,7 +26,7 @@ Berzins was one of several Barnard students who wrote to Dean Henry Boorse, Barn
 </style>
 <div id="my-pdf12"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf12");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box35_Folder1_1.pdf", "#my-pdf12");</script> 
 {% include modal.html button="Citation: Statements from Barnard students protesting disciplinary actions for May 7, 1965 protest, circa May 1965." color="success" title="Citation" text="Statements from Barnard students protesting disciplinary actions for May 7, 1965 protest, circa May 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 In this letter, Jemera Rone Flug (BC '66) criticizes what she calls the administration's "complete lack of respect for due process" in the disciplinary hearings against student protestors: 
@@ -36,7 +36,7 @@ In this letter, Jemera Rone Flug (BC '66) criticizes what she calls the administ
 </style>
 <div id="my-pdf13"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_4.pdf", "#my-pdf13");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box35_Folder1_4.pdf", "#my-pdf13");</script> 
 {% include modal.html button="Citation: Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965." color="success" title="Citation" text="Letter from Jemera Rone Flug to Barnard Dean of the Faculty Henry Boorse, May 13, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 However, Barnard President Martha Peterson responded to many of these testimonies, including the letter from Zane Berzins, with further disciplinary action:
@@ -46,7 +46,7 @@ However, Barnard President Martha Peterson responded to many of these testimonie
 </style>
 <div id="my-pdf14"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf14");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box35_Folder1_3.pdf", "#my-pdf14");</script> 
 {% include modal.html button="Citation: Letter from President Martha Peterson to Zane Berzins, May 21, 1965." color="success" title="Citation" text="Letter from President Martha Peterson to Zane Berzins, May 21, 1965. Box 35, Folder 1, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 The Judicial Council mentioned by President Peterson was created just one year prior in 1964. According to the 1965-66 Barnard Student Handbook, the Council comprised of 5-7 students who were elected by the student body and 2-4 faculty members elected by the faculty. The Dean of Studies and President of the College were ex officio members. However, there was no official student code of conduct at Barnard until 1971. Thus, the grounds on which the Judicial Council prosecuted students for non-academic offenses are murky. 
@@ -58,7 +58,7 @@ The disciplinary procedures that the Judicial Council undertook in response to a
 </style>
 <div id="my-pdf15"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_5.pdf", "#my-pdf15");</script> 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box35_Folder2_5.pdf", "#my-pdf15");</script> 
 {% include modal.html button="Citation: Disciplinary letters from Barnard Judicial Council to Jessica Holland, 1967." color="success" title="Citation" text="Disciplinary letters from Barnard Judicial Council to Jessica Holland, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 Barnard President Rosemary Park confirmed the official censure of Holland in this letter: 
@@ -72,7 +72,7 @@ In the following letter from the Judicial Council, they issued what appears to b
 </style>
 <div id="my-pdf16"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-22_Box35_Folder2_1.pdf", "#my-pdf16");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box35_Folder2_1.pdf", "#my-pdf16");</script>
 {% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 
@@ -91,7 +91,7 @@ The events of April 30 also prompted the following statements from the student m
 </style>
 <div id="my-pdf17"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-6.pdf", "#my-pdf17");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-6.pdf", "#my-pdf17");</script>
 {% include modal.html button="Citation: Resolution of Members of the Executive Board of the Undergraduate Association, circa May 1968." color="success" title="Citation" text="Resolution of Members of the Executive Board of the Undergraduate Association, circa May 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 <style>
@@ -99,7 +99,7 @@ The events of April 30 also prompted the following statements from the student m
 </style>
 <div id="my-pdf18"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf18");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf18");</script>
 {% include modal.html button="Citation: Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968." color="success" title="Citation" text="Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 In the aftermath of the April 30 "bust," several students who participated in the strike formed the Strike Coordinating Committee to organize a campus-wide strike at Columbia for the rest of the spring 1968 semester. 
@@ -111,7 +111,7 @@ On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, w
 </style>
 <div id="my-pdf19"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf19");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf19");</script>
 {% include modal.html button="Citation: List of Barnard students arrested on May 21, 1968, undated." color="success" title="Citation" text="List of Barnard students arrested on May 21, 1968, undated. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 Columbia President Grayson Kirk and Vice President David Truman released statements strongly condemning the student protestors and promising disciplinary action:
@@ -121,7 +121,7 @@ Columbia President Grayson Kirk and Vice President David Truman released stateme
 </style>
 <div id="my-pdf20"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-3.pdf", "#my-pdf20");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-3.pdf", "#my-pdf20");</script>
 {% include modal.html button="Citation: Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968." color="success" title="Citation" text="Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 <style>
@@ -129,7 +129,7 @@ Columbia President Grayson Kirk and Vice President David Truman released stateme
 </style>
 <div id="my-pdf21"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-14.pdf", "#my-pdf21");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-14.pdf", "#my-pdf21");</script>
 {% include modal.html button="Citation: Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968." color="success" title="Citation" text="Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 It is unclear whether there was a press statement from Barnard President Martha Peterson released to the public, however in this letter, Peterson expresses her hesitation to release such a statement: 
@@ -139,9 +139,8 @@ It is unclear whether there was a press statement from Barnard President Martha 
 </style>
 <div id="my-pdf22"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-4.pdf", "#my-pdf22");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-4.pdf", "#my-pdf22");</script>
 {% include modal.html button="Citation: Letter from Barnard President Martha Peterson to Barnard Arrested Students, June 3, 1968." color="success" title="Citation" text="Letter from Barnard President Martha Peterson to Barnard Arrested Students, June 3, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
-
 
 Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from support for student protestors to condemnation of them: 
 
@@ -150,8 +149,10 @@ images/BC05-08_Box20-Riots-11.pdf
 
  images/BC05-22_Box50_Folder1_1 thru 6
 
+The President's Office records contains materials that reflects Barnard's and Columbia's participation in the worldwide Moratorium to End the War in Vietnam on October 15, 1969.
 
-October 15, 1969 moratorium
+{% include figure.html img="BC05-22_Box50_Folder2_5.jpg" alt="Flyer for the Moratorium to End the War in Vietnam, 1969." caption="Flyer from the New York office of the Vietnam Moratorium Committee listing recommended protest activities for the Moratorium to End the War in Vietnam on October 15, 1969." width="75%" %} {% include modal.html button="Citation: Telegram, 1968" color="success" title="Flyer for the Moratorium to End the War in Vietnam, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+
 images/BC05-22_Box50_Folder2_2 thru 7
 
 1972 strike 
@@ -173,7 +174,7 @@ images/BC05-22_Box50_Folder2_8.jpg
 </style>
 <div id="my-pdf30"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
 -------
