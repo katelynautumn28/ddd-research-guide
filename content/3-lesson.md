@@ -1,11 +1,13 @@
 ---
 title: Researching Dissent & Discipline
 nav: Dissent & Discipline
-topics: Vietnam War; Black Panthers; South African apartheid; Audobon Ballroom; Reproductive Rights; Barnard Judicial Council; Student discipline; Censure; Suspension; Expulsion
+topics: Vietnam War; Black Panthers; South African apartheid; Barnard Judicial Council; Student discipline; Censure; Suspension; Expulsion
 ---
 ## Anti-War and Civil Rights Protests
 
 The student uprisings at Columbia University during the late 1960s and early 1970s are well documented in Barnard and Columbia archival collections, and have previously been explored in published works such as this [2018 Barnard Magazine article by Professor Emerita of History Rosalind Rosenberg](https://barnard.edu/news/1968-barnard-historic-protests), and digital exhibitions such as [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968) curated by Jocelyn Wilk, and [From LeClair to Low Library: Barnard's Spring of 1968](https://barnardarchives.omeka.net/collections/show/3) curated by Rona Wilk (BC '91). The demonstrations that took place on both Columbia and Barnard campuses during these years were launched by students protesting a range of interconnected issues, namely the Columbia administation's support for the United States' military intervention in Vietnam, anti-Black racist violence and discrimination, and Columbia's efforts to build a gymanasium in Morningside Park that would exclude members of the surrounding Harlem neihborhood. The materials presented in this section shed light on Barnard students' involvement in and support for these protests, as well as the responses from Barnard alums, administration, and parents. The materials featured in this section are sourced from the [President's Office Records](https://collections.barnard.edu/public/repositories/2/resources/332) and [Office of Communications Records](https://collections.barnard.edu/public/repositories/2/resources/35)  
+
+-------
 
 On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library during an annual awards ceremony for the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
 
@@ -74,7 +76,7 @@ In the following letter from the Judicial Council, they issued what appears to b
 {% include modal.html button="Citation: Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967." color="success" title="Citation" text="Disciplinary warning from Barnard Judicial Council to Suzanne Crowell, March 13, 1967. Box 35, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %} 
 
 
-Starting in April 1968, student members andn supporters of Columbia's Students for a Democratic Society (SDS) chapter and the Society of Afro-American Students (SAS) launched several major demonstrations and occupations protesting the universities' involvement in the Vietnam War and construction of the Morningside Park gymnasium. Beginning with a dual SDS and SAS rally at Columbia's Sun Dial at noon on Tuesday, April 23, demonstrations evolved into several days-ong occupations campus buildings by Barnard and Columbia students, as well as non-Columbia affiliated protestors. Hamilton Hall, Fayerweather Hall, Low Library, Avery Hall, and the Mathematics Hall, all on Columbia's campus, were occupied. Estimates of Barnard students' participation in the protests range from 100 to 300. The occupations were brought to a violent end on Tuesday, April 30, 1968 when New York City police fordibly removed student protestors, resulting in over 700 arrests of student protestors, including 111 Barnard students, and at least 148 injuries. The digital exhibition [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968) presents a detailed timeline of events with supporting archival materials from the Columbia University Archives and private collections.
+Starting in April 1968, student members and supporters of Columbia's Students for a Democratic Society (SDS) chapter and the Society of Afro-American Students (SAS) launched several major demonstrations and occupations protesting the universities' involvement in the Vietnam War and construction of the Morningside Park gymnasium. Beginning with a dual SDS and SAS rally at Columbia's Sun Dial at noon on Tuesday, April 23, demonstrations evolved into several days-long occupations campus buildings by Barnard and Columbia students, as well as non-Columbia affiliated protestors. Hamilton Hall, Fayerweather Hall, Low Library, Avery Hall, and the Mathematics Hall, all on Columbia's campus, were occupied. Estimates of Barnard students' participation in the protests range from 100 to 300. The occupations were brought to a violent end on Tuesday, April 30, 1968 when New York City police fordibly removed student protestors, resulting in over 700 arrests of student protestors, including 111 Barnard students, and at least 148 injuries. The digital exhibition [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968) presents a detailed timeline of events with supporting archival materials from the Columbia University Archives and private collections.
 
 Two telegrams from Barnard alums sent immediately after the police raid demonstrate their alarm and disapproval of the use of police force:
 
@@ -109,31 +111,36 @@ On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, w
 </style>
 <div id="my-pdf19"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-3.pdf", "#my-pdf19");</script>
-{% include modal.html button="Citation: Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968." color="success" title="Citation" text="Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf19");</script>
+{% include modal.html button="Citation: List of Barnard students arrested on May 21, 1968, undated." color="success" title="Citation" text="List of Barnard students arrested on May 21, 1968, undated. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
-Columbia President Grayson Kirk and Vice President David Truman released statements strongly condemning the student protestors and promising disciplinary action.:
+Columbia President Grayson Kirk and Vice President David Truman released statements strongly condemning the student protestors and promising disciplinary action:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf20"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-14.pdf", "#my-pdf20");</script>
-{% include modal.html button="Citation: Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968." color="success" title="Citation" text="Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-3.pdf", "#my-pdf20");</script>
+{% include modal.html button="Citation: Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968." color="success" title="Citation" text="Press statement from Columbia President Grayson Kirk in response to Hamilton Hall occupation, May 22, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf21"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf21");</script>
-{% include modal.html button="Citation: List of Barnard students arrested on May 21, 1968, undated." color="success" title="Citation" text="List of Barnard students arrested on May 21, 1968, undated. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
-
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-14.pdf", "#my-pdf21");</script>
+{% include modal.html button="Citation: Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968." color="success" title="Citation" text="Press statement from Columbia Vice President David Truman in response to Hamilton Hall occupation, May 24, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 It is unclear whether there was a press statement from Barnard President Martha Peterson released to the public, however in this letter, Peterson expresses her hesitation to release such a statement: 
 
-
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf22"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box20-Riots-4.pdf", "#my-pdf22");</script>
+{% include modal.html button="Citation: Letter from Barnard President Martha Peterson to Barnard Arrested Students, June 3, 1968." color="success" title="Citation" text="Letter from Barnard President Martha Peterson to Barnard Arrested Students, June 3, 1968. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
 
 
 Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from support for student protestors to condemnation of them: 
@@ -164,21 +171,11 @@ images/BC05-22_Box50_Folder2_8.jpg
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf22"></div>
+<div id="my-pdf30"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf22");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-research-guide/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
 
-
--------
-
-## Audobon Ballroom
-
-
--------
-
-## Reproductive Rights
-images/BC05-22_Box50_Folder3_1.jpg
 -------
 
 ## For classes/workshops
