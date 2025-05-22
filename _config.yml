@@ -18,8 +18,8 @@ title: "DDD"
 title-icon: archive
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "A guide to using administrative archival records to research histories of divestment, dissent, and discipline at Barnard College"
-keywords: "archives, research"
+description: "A lesson plan for using administrative archival records to research histories of divestment, dissent, and discipline at Barnard College"
+keywords: "archives, research, administration, protest, discipline, dissent, divestment"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
 featured-image: "/images/BC05-08_Box20-Riots-10.jpg"
@@ -47,8 +47,7 @@ url: https://katelynautumn28.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /ddd-research-guide
-
+baseurl: /ddd-workshop
 
 ##########
 # ROBOTS EXCLUDE [optional!]
