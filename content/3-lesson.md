@@ -104,7 +104,17 @@ The events of April 30 also prompted the following statements from the student m
 
 In the aftermath of the April 30 "bust," several students who participated in the strike formed the Strike Coordinating Committee to organize a campus-wide strike at Columbia for the rest of the spring 1968 semester. 
 
-On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, which led to another violent police response in the early hours of May 22. This document presents a list of Barnard students who were arrested at this time: 
+On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, which led to another violent police response in the early hours of May 22. 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf19"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-9.pdf", "#my-pdf19");</script>
+{% include modal.html button="Citation: List of Barnard students arrested on May 21, 1968, undated." color="success" title="Citation" text="List of Barnard students arrested on May 21, 1968, undated. Series 2, Box: 20. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %}
+
+This document presents a list of Barnard students who were arrested at this time: 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -165,7 +175,7 @@ This letter, assumed to be a draft due to its lack of signatures, was prepared b
 <div id="my-pdf23"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder2_6.pdf", "#my-pdf23");</script>
-{% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation" text=Letter from Barnard community to US President Richard Nixon, October 15, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation" text="Letter from Barnard community to US President Richard Nixon, October 15, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
 
 images/BC05-22_Box50_Folder2_2 thru 7
 
