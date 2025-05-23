@@ -26,7 +26,7 @@ Explore the full digitized Barnard Bulletin collection  [here]([https://getboots
 The [Board of Trustees Records](https://collections.barnard.edu/public/repositories/2/resources/2) in the Barnard Archives includes many materials that shed light on the College administration's discussions of divestment. In the wake of [intense student protests and the well-documented occupation of Hamilton Hall in April 1985](https://katelynautumn28.github.io/ddd-workshop/content/3-lesson.html), the Board of Trustees began taking concrete actions to enact an official divestment policy on South Africa business holdings in spring 1985. Here are a few excerpts of meeting minutes contained in the February 1984-December 1985 volume of meeting minutes, located in [Subseries 1.1, Box 8](https://collections.barnard.edu/public/repositories/2/archival_objects/25764) of the Board of Trustees Records. 
 
 {% include figure.html img="BC01-01_Box8_1984-12-11.jpg" alt="Board meeting minutes, December 11, 1984" caption="Excerpt from Board of Trustees meeting minutes, December 11, 1984" width="75%" %}
-{% include modal.html button="Citation: Board meeting minutes, December 11, 1984" color="success" title="Citation1" text="Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Board meeting minutes, December 11, 1984" color="success" title="Citation and Link to Finding Aid" text="Excerpt from Board of Trustees meeting minutes, December 11, 1984. [Board of Trustees meeting minutes bound volumes, 1978 - 1989, Box 8; Sub-series 1.1 Board of Trustees meeting minutes; Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25764)" %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -34,7 +34,7 @@ The [Board of Trustees Records](https://collections.barnard.edu/public/repositor
 <div id="my-pdf1"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC01-01_Box8_1985-02-13.pdf", "#my-pdf1");</script>
-{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 13, 1985" color="success" title="Citation" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. [Board of Trustees meeting minutes bound volumes, 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25764)" %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, February 13, 1985" color="success" title="Citation and Link to Finding Aid" text="Excerpt from Board of Trustees meeting minutes, February 13, 1985. [Board of Trustees meeting minutes bound volumes, 1978 - 1989, Box 8; Sub-series 1.1 Board of Trustees meeting minutes; Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25764)" %}
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -42,7 +42,7 @@ The [Board of Trustees Records](https://collections.barnard.edu/public/repositor
 <div id="my-pdf2"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC01-01_Box8_1985-04-24.pdf", "#my-pdf2");</script>
-{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, April 24, 1985" color="success" title="Citation and Link to Finding Aid" text="Excerpt from Board of Trustees meeting minutes, April 24, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, April 24, 1985" color="success" title="Citation and Link to Finding Aid" text="Excerpt from Board of Trustees meeting minutes, April 24, 1985. [Board of Trustees meeting minutes bound volumes, 1978 - 1989, Box 8; Sub-series 1.1 Board of Trustees meeting minutes; Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25764)" %}
 
 The Board's official resolution to divest from businesses with operations in South Africa was passed on May 29, 1985:
 
@@ -52,7 +52,7 @@ The Board's official resolution to divest from businesses with operations in Sou
 <div id="my-pdf3"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC01-01_Box8_1985-05-29.pdf", "#my-pdf3");</script>
-{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, May 29, 1985" color="success" title="Citation and Link to Finding Aid" text="Excerpt from Board of Trustees meeting minutes, May 29, 1985. Board of Trustees meeting minutes (bound volumes), 1978 - 1989, Sub-series 1.1, Box: 8. Board of Trustees Records, BC01-01. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Excerpt from Board of Trustees meeting minutes, May 29, 1985" color="success" title="Citation and Link to Finding Aid" text="Excerpt from Board of Trustees meeting minutes, May 29, 1985. [Board of Trustees meeting minutes bound volumes, 1978 - 1989, Box 8; Sub-series 1.1 Board of Trustees meeting minutes; Board of Trustees Records, BC01-01. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25764)" %}
 
 This letter from Barnard President Ellen Futter, located in the Correspondence sub-series of the Board of Trustees Records, announced the Board's complete divestment from South Africa to the wider Barnard community:
 
