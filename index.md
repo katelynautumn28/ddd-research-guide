@@ -14,7 +14,11 @@ This resource was created by Katelyn Landry, a Barnard Archives Graduate Fellow 
 
 This resource also serves as an affirmation of the right to protest and freedom of expression on college campuses. By looking to the archive for evidence of past organizing, activism, and negotiations, the archive may serve as a tool for fortifying solidarity, understanding, and accountability on campuses today and in the future.
 
-### Publication Rights
+## How to Use this Resource
+
+
+
+## Publication Rights
 Barnard College retains copyright of materials created as part of its business operations. To request permission to reproduce these types of materials, please contact us at archives@barnard.edu.
 
 This collection may also contain materials created by others, for which copyright is not held by the College. In order to reproduce these materials, permission from the Archives is not required, but it is researchers' responsibility to determine and obtain any necessary permissions related to copyright, privacy, publicity, or other rights.
