@@ -7,6 +7,8 @@ layout: page
 
 {% include figure.html img="BC05-08_Box20-Riots-10.jpg" alt="intro image here" caption="Telegram from Barnard alum Yola Englander Schlosser '64 to Barnard President Martha Peterson protesting police violence against anti-war student protestors, May 1, 1968." width="75%" %}
 
+------
+
 ## About 
 This lesson plan provides primary source materials from the [Barnard Archives & Special Collections](https://archives.barnard.edu/) and discussion questions to guide workshops or classes interested in utilizing archival materials to research histories of divestment campaigns, student dissent, and student discipline at Barnard College. This plan may also be used as a roadmap for individual researchers seeking archival materials related to student activism and protest on campus.
 
@@ -14,9 +16,17 @@ This resource was created by Katelyn Landry, a Barnard Archives Graduate Fellow 
 
 This resource also serves as an affirmation of the right to protest and freedom of expression on college campuses. By looking to the archive for evidence of past organizing, activism, and negotiations, the archive may serve as a tool for fortifying solidarity, understanding, and accountability on campuses today and in the future.
 
+------
+
 ## How to Use this Resource
+This lesson plan is divided into four sections. The first section, "Intro," provides definitions of institutional and administrative records, which are the primary types of materials presented throughout the lesson plan. This section explains why these types of records are preserved and why they are valuable resources for researching college administrators' perspectives and reactions to divestment campaigns, campus dissent, and student discipline. 
 
+The second and third sections, "Divestment" and "Dissent and Discipline" respectively, provide some digitized materials from institutional record collections at the Barnard Archives related to those topics. These sections offer basic historical context... 
+Both sections are concluded with questions designed to be posed to a workshop or class for discussion. They include basic document analysis questions designed to encourage the researcher to think critically about the material's creation, its creators' intentions, its perception by outside actors, and its preservation within the archive. They also include content-specific questions intended to facilitate discussion about what archival materials reveal, obscure, or otherwise impact our understandings of past divestment campaigns, student protests and organizing, and student discipline policies and practices. Finally, there is a suggested group exercise for encouraging further comparative analysis between the materials as well as with contemporary documents. 
 
+The fourth and final section, "Resources," offers suggestions and links to additional research support within Barnard and Columbia libraries and archives, as well as other topically related digital resources for continuing research into divestment, dissent, and discipline.
+
+------
 
 ## Publication Rights
 Barnard College retains copyright of materials created as part of its business operations. To request permission to reproduce these types of materials, please contact us at archives@barnard.edu.
@@ -26,6 +36,8 @@ This collection may also contain materials created by others, for which copyrigh
 No permission is required for reproductions of materials in the public domain or uses that fall within fair use exemptions to copyright as defined under U.S. Copyright Law.
 
 Please see our [Reproductions, Copyright, and Citing Archives page](https://archives.barnard.edu/research/reproductions) for more information and contact us at archives@barnard.edu with any questions.
+
+------
 
 {% include toc.html %}
 
