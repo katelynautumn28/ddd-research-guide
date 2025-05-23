@@ -9,7 +9,7 @@ The [Barnard College Archives and Special Collections](https://archives.barnard.
 
 A large portion of the collections stewarded by the Barnard Archives are considered *institutional records*: materials that were produced by Barnard’s administrative offices, academic departments, faculty and staff members, students, and alums. 
 
-This research guide focuses specifically on *administrative records*: materials that were primarily created by the governing bodies and offices that are responsible for the large-scale management of Barnard College. Higher education administrators are generally considered to include those people and groups who have the most decision-making power about the institution’s finances, human resources, and policies. 
+This lesson plan focuses strongly on *administrative records*: materials that were primarily created by the governing bodies and offices that are responsible for the large-scale management of Barnard College. Higher education administrators are generally considered to include those people and groups who have the most decision-making power about the institution’s finances, human resources, and policies. 
 
 Major administrative record collections at the Barnard Archives include: 
 - BC01.01: [Board of Trustees Records](https://collections.barnard.edu/public/repositories/2/resources/2)
