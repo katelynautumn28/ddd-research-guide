@@ -161,11 +161,11 @@ images/BC05-08_Box20-Riots-11.pdf
 
 The President's Office records contains materials that reflects Barnard's and Columbia's participation in the worldwide Moratorium to End the War in Vietnam on October 15, 1969.
 
-{% include figure.html img="BC05-22_Box50_Folder2_5.jpg" alt="Flyer for the Moratorium to End the War in Vietnam, 1969." caption="Flyer from the New York office of the Vietnam Moratorium Committee listing recommended protest activities for the Moratorium to End the War in Vietnam on October 15, 1969." width="75%" %} {% include modal.html button="Citation: Flyer for the Moratorium to End the War in Vietnam, 1969." color="success" title="Citation and Link to Finding Aid" text="Flyer for the Moratorium to End the War in Vietnam, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-22_Box50_Folder2_5.jpg" alt="Flyer for the Moratorium to End the War in Vietnam, 1969." caption="Flyer from the New York office of the Vietnam Moratorium Committee listing recommended protest activities for the Moratorium to End the War in Vietnam on October 15, 1969." width="75%" %} {% include modal.html button="Citation: Flyer for the Moratorium to End the War in Vietnam, 1969." color="success" title="Citation and Link to Finding Aid" text="Flyer for the Moratorium to End the War in Vietnam, 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
 This memo from the Barnard Moratorium Committee lists an itinerary of events to be held on Barnard's campus on Moratorium day: 
 
-{% include figure.html img="BC05-22_Box50_Folder2_2.jpg" alt="Memo and itinerary from the Barnard Moratorium Committee, October 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: Barnard Moratorium Committee memo, 1969" color="success" title="Memo and itinerary from the Barnard Moratorium Committee, October 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-22_Box50_Folder2_2.jpg" alt="Memo and itinerary from the Barnard Moratorium Committee, October 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: Barnard Moratorium Committee memo, 1969" color="success" title="Citation and Link to Finding Aid" text="Memo and itinerary from the Barnard Moratorium Committee, October 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
 This letter, which is potentially an unsent draft due to its lack of signatures, was prepared by an unknown group of Barnard community members on Moratorium day to be sent to the President of the United States, Richard Nixon. The letter decries the escalation of the Vietnam War as well as the villanization of anti-war advocates and censure of anti-war speech: 
 
@@ -175,7 +175,7 @@ This letter, which is potentially an unsent draft due to its lack of signatures,
 <div id="my-pdf24"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder2_6.pdf", "#my-pdf24");</script>
-{% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation" text="Letter from Barnard community to US President Richard Nixon, October 15, 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation and Link to Finding Aid" text="Letter from Barnard community to US President Richard Nixon, October 15, 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
 images/BC05-22_Box50_Folder2_2 thru 7
 
@@ -186,9 +186,9 @@ images/BC05-22_Box50_Folder5_1 through 5
 
 ## Black Power & Civil Rights
 
-{% include figure.html img="BC05-22_Box50_Folder2_8.jpg" alt="'Free Our Sisters Free Ourselves' flyer, November 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: 'Free Our Sisters Free Ourselves' flyer, November 1969" color="success" title="'Free Our Sisters Free Ourselves' flyer, November 1969. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-22_Box50_Folder2_8.jpg" alt="'Free Our Sisters Free Ourselves' flyer, November 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: 'Free Our Sisters Free Ourselves' flyer, November 1969" color="success" title="Citation and Link to Finding Aid" text='Free Our Sisters Free Ourselves' flyer, November 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
-{% include figure.html img="BC05-22_Box50_Folder4_1.jpg" alt="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." caption="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." width="75%" %} {% include modal.html button="Citation: 'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." color="success" title="''Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970. Box 50, Folder 2, President's Office Records, BC05-22. Barnard Archives and Special Collections." %}
+{% include figure.html img="BC05-22_Box50_Folder4_1.jpg" alt="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." caption="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." width="75%" %} {% include modal.html button="Citation: 'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." color="success" title="Citation and Link to Finding Aid" text="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
 -------
 
@@ -200,7 +200,7 @@ images/BC05-22_Box50_Folder5_1 through 5
 <div id="my-pdf30"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
-{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. Series 1, Box: 32. Office of Communications records, BC05-08. Barnard Archives and Special Collections." %} 
+{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
 
 -------
 
@@ -216,13 +216,15 @@ On December 14, 1992, approximately 100 students blockaded Hamilton Hall for sev
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/columbia-spectator-01-19-1993.pdf", "#my-pdf31");</script>
 {% include modal.html button="Citation: Columbia Spectator, January 19, 1993." color="success" title="Citation" text="[Columbia Spectator, January 19, 1993. Columbia Spectator Archive, Columbia University Libraries.](https://spectatorarchive.library.columbia.edu/?a=d&d=cs19930119-01.1.1&e=-------en-20--1--txt-txIN-------)" %} 
 
+Barnard students who were involved in the protest were contacted by Barbara Schmitter, who served as Dean of Student Affairs (later renamed Dean of the College) from 1982-93: 
+
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
 <div id="my-pdf32"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-15_Box3-1993-discipline-letters.pdf", "#my-pdf32");</script>
-{% include modal.html button="Citation: Disciplinary letters sent to Barnard student protestors from Barbara Schmitter, April-May 1993." color="success" title="Citation" text="Disciplinary letters sent to Barnard student protestors from Barbara Schmitter, April-May 1993. Box 3, Deans' Office for Advising and Support Records, BC05-15. Barnard Archives and Special Collections." %} 
+{% include modal.html button="Citation: Disciplinary letters sent to Barnard student protestors from Barbara Schmitter, April-May 1993." color="success" title="Citation" text="Disciplinary letters sent to Barnard student protestors from Barbara Schmitter, April-May 1993. [Barbara Schmitter correspondence and datebooks, 1988-1993, Box 3; Sub-series 1.1 Barbara Schmitter Correspondence; Deans' Office for Advising and Support Records, BC05-15. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/22395)" %} 
 
 -------
 
