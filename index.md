@@ -17,6 +17,7 @@ This resource was created by Katelyn Landry, a Barnard Archives Graduate Fellow 
 This resource also serves as an affirmation of the right to protest and freedom of expression on college campuses. By looking to the archive for evidence of past organizing, activism, and negotiations, the archive may serve as a tool for fortifying solidarity, understanding, and accountability on campuses today and in the future.
 
 ------
+{% include figure.html img="Protest_Strike_Bway_72.jpg.jpg" alt="March on Broadway, 1972" caption="Students march on Broadway with a sign that reads, "ON STRIKE! SHUT IT DOWN / SERVE THE PEOPLE," April 18, 1972. The march was part of the April 1972 student strikes in protest of the Vietnam War. [BC17-10 Photographs - Student Activities and Student Life; Barnard Photography Collection; Barnard Digital Collections.](https://digitalcollections.barnard.edu/do/4115d201-5d5c-40b6-b933-4d329d709dc9)" width="75%" %}
 
 ## How to Use this Resource
 This lesson plan is divided into four sections. The first section, "Intro," provides definitions of institutional and administrative records, which are the primary types of materials presented throughout the lesson plan. This section explains why these types of records are preserved and why they are valuable resources for researching college administrators' perspectives and reactions to divestment campaigns, campus dissent, and student discipline. 
