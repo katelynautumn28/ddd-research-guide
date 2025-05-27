@@ -1,7 +1,7 @@
 ---
 title: Researching Dissent & Discipline
 nav: Dissent & Discipline
-topics: Vietnam War; Black Panthers; South African apartheid; Barnard Judicial Council; Student discipline; Censure; Suspension; Expulsion
+topics: Vietnam War; Black Panthers; South African apartheid; Audobon Ballroom; Barnard Judicial Council; Student discipline; Censure; Suspension; Expulsion
 ---
 ## Anti-War and Civil Rights Protests
 
@@ -9,7 +9,7 @@ The student uprisings at Columbia University during the late 1960s and early 197
 
 -------
 
-On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library during an annual awards ceremony for the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Zane's account of the violent police response to the protest: 
+On May 7, 1965, Barnard and Columbia students gathered at Ferris Booth Hall and Low Library during an annual awards ceremony for the NROTC (Naval Reserve Officers Training Corps) at Columbia, a program that trains college students to become officers in the US Navy and Marine Corps. This letter from Zane Berzins (BC '65) provides Berzins's account of the violent police response to the protest: 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -154,10 +154,26 @@ It is unclear whether there was a press statement from Barnard President Martha 
 
 Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from support for student protestors to condemnation of them: 
 
-images/BC05-08_Box20-Riots-1.pdf
-images/BC05-08_Box20-Riots-11.pdf
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf24"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-1.pdf", "#my-pdf24");</script>
+{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf25"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-11.pdf", "#my-pdf25");</script>
+{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
 
  images/BC05-22_Box50_Folder1_1 thru 6
+
+------
 
 The President's Office records contains materials that reflects Barnard's and Columbia's participation in the worldwide Moratorium to End the War in Vietnam on October 15, 1969.
 
@@ -172,12 +188,14 @@ This letter, which is potentially an unsent draft due to its lack of signatures,
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
-<div id="my-pdf24"></div>
+<div id="my-pdf26"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder2_6.pdf", "#my-pdf24");</script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder2_6.pdf", "#my-pdf26");</script>
 {% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation and Link to Finding Aid" text="Letter from Barnard community to US President Richard Nixon, October 15, 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
 images/BC05-22_Box50_Folder2_2 thru 7
+
+------
 
 1972 strike 
 images/BC05-22_Box50_Folder5_1 through 5
