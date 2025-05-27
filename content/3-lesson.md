@@ -208,13 +208,18 @@ The President's Office records also contain materials related to protest and str
 {% include figure.html img="BC05-22_Box50_Folder5_3.jpg" alt="Strike flyer, April 1972." caption="A flyer for the university strike explaining why picket lines were opened, potentially on Wednesday, April 19, 1972 following the mass strike meeting and march held the previous day." width="75%" %} 
 {% include modal.html button="Citation: Strike flyer, April 1972." color="success" title="Citation and Link to Finding Aid" text="Strike flyer, April 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
 
-{% include figure.html img="BC05-22_Box50_Folder5_1.jpg" alt="Strike flyer, April 1972." caption="A flyer for the university strike explaining why picket lines were opened, potentially on Wednesday, April 19, 1972 following the mass strike meeting and march held the previous day." width="75%" %} 
-{% include modal.html button="Citation: Strike flyer, April 1972." color="success" title="Citation and Link to Finding Aid" text="Strike flyer, April 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
+{% include figure.html img="BC05-22_Box50_Folder5_1.jpg" alt="Mass meeting of all Barnard students, circa April 1972." caption="A flyer for a mass meeting of all Barnard students to discuss the escalation of the Vietnam War and their role in campus-wide strike activities, circa April 1972." width="75%" %} 
+{% include modal.html button="Citation: Mass meeting of all Barnard students, circa April 1972." color="success" title="Citation and Link to Finding Aid" text="Mass meeting of all Barnard students, circa April 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
 
+Strike and protest activities escalated, leading to the occupation of five Columbia buildings by both pro-strike and anti-strike student and faculty protestors from April 25 through May 12. This statement from the Columbia Office of Public Information summarizes university disciplinary actions and criminal charges brought against student protestors: 
 
-
-1972 strike 
-images/BC05-22_Box50_Folder5_1 through 5
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf27"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder5_5.pdf", "#my-pdf27");</script>
+{% include modal.html button="Citation: Statement from Columbia Office of Public Information regarding disciplinary and criminal charges against student protestors, May 23, 1972" color="success" title="Citation and Link to Finding Aid" text="Statement from Columbia Office of Public Information regarding disciplinary and criminal charges against student protestors, May 23, 1972 [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
 
 -------
 
