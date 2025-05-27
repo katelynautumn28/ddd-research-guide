@@ -102,7 +102,9 @@ The events of April 30 also prompted the following statements from the student m
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-7.pdf", "#my-pdf18");</script>
 {% include modal.html button="Citation: Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968." color="success" title="Citation and Link to Finding Aid" text="Statement of The Voting Faculty, Teaching Staff and Administration, circa May 1968. [Event materials (Friends of SNCC report, Columbia riots, Barnard Organization of Soul Sisters, TRIGA reactor protest, Five Centuries of Feminism exhibit, Gildersleeve Lectures), 1958-1979, Box 20; Series 2 Events, Promotional Material, Exhibits, and Dedications; Office of Communications records, BC05-08; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/283)" %}
 
-In the aftermath of the April 30 "bust," several students who participated in the strike formed the Strike Coordinating Committee to organize a campus-wide strike at Columbia for the rest of the spring 1968 semester. 
+In the aftermath of the April 30 "bust," several students who participated in the strike formed the Strike Coordinating Committee to organize a campus-wide strike at Columbia for the rest of the spring 1968 semester. Strikers encouraged students and faculty to refrain from attending classes, and also called for Columbia President Kirk, Vice President Truman, and the Board of Trustees to resign. 
+
+{% include figure.html img="BC05-22_Box50_Folder1_2.jpg" alt="Strike Steering Committee Press Statement, April 30, 1968." caption="Press statement issued by the Strike Steering Committee following the police bust of occupied Hamilton Hall, April 20, 1968." width="75%" %} {% include modal.html button="Citation: Strike Steering Committee Press Statement, April 30, 1968." color="success" title="Citation and Link to Finding Aid" text="Strike Steering Committee Press Statement, April 30, 1968. [Political Activities materials and correspondence (1 of 5), 1969, Box 50, Folder 1; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19916)" %}
 
 On May 21, 1968, over a hundred SDS members occupied Hamilton Hall once again, which led to another violent police response in the early hours of May 22. 
 
@@ -152,8 +154,7 @@ It is unclear whether there was a press statement from Barnard President Martha 
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-4.pdf", "#my-pdf23");</script>
 {% include modal.html button="Citation: Letter from Barnard President Martha Peterson to Barnard Arrested Students, June 3, 1968." color="success" title="Citation and Link to Finding Aid" text="Letter from Barnard President Martha Peterson to Barnard Arrested Students, June 3, 1968. [Event materials (Friends of SNCC report, Columbia riots, Barnard Organization of Soul Sisters, TRIGA reactor protest, Five Centuries of Feminism exhibit, Gildersleeve Lectures), 1958-1979, Box 20; Series 2 Events, Promotional Material, Exhibits, and Dedications; Office of Communications records, BC05-08; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/283)" %}
 
-Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from support for student protestors to condemnation of them: 
-
+Parents of Barnard and Columbia students were also compelled to voice their opinions on the 1968 riots. Parents' reactions ranged from condemnation of the student protestors and support for the administration's actions, to supportive sentiments for the students and disapproval of the administration. 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -161,7 +162,7 @@ Parents of Barnard and Columbia students were also compelled to voice their opin
 <div id="my-pdf24"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-1.pdf", "#my-pdf24");</script>
-{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
+{% include modal.html button="Citation: Letter from Theodore Willner, a Barnard parent, in support of the university administration, May 27, 1968." color="success" title="Citation and Link to Finding Aid" text="Letter from Theodore Willner, a Barnard parent, in support of the university administration, May 27, 1968 [Event materials (Friends of SNCC report, Columbia riots, Barnard Organization of Soul Sisters, TRIGA reactor protest, Five Centuries of Feminism exhibit, Gildersleeve Lectures), 1958-1979, Box 20; Series 2 Events, Promotional Material, Exhibits, and Dedications; Office of Communications records, BC05-08; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/283)" %} 
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
@@ -169,9 +170,7 @@ Parents of Barnard and Columbia students were also compelled to voice their opin
 <div id="my-pdf25"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box20-Riots-11.pdf", "#my-pdf25");</script>
-{% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
-
- images/BC05-22_Box50_Folder1_1 thru 6
+{% include modal.html button="Citation: Letter from Christine Mee, a Barnard parent, protesting the actions of Columbia administration, May 27, 1968." color="success" title="Citation and Link to Finding Aid" text="Letter from Christine Mee, a Barnard parent, protesting the actions of Columbia administration, May 27, 1968. [Event materials (Friends of SNCC report, Columbia riots, Barnard Organization of Soul Sisters, TRIGA reactor protest, Five Centuries of Feminism exhibit, Gildersleeve Lectures), 1958-1979, Box 20; Series 2 Events, Promotional Material, Exhibits, and Dedications; Office of Communications records, BC05-08; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/283)" %} 
 
 ------
 
