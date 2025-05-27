@@ -233,6 +233,8 @@ Strike and protest activities escalated, leading to the occupation of five Colum
 
 ## South African Apartheid
 
+Beginning on April 4, 1985, student protestors blockaded and occupied Hamilton Hall to protest racial apartheid in South Africa and demand that Columbia divest from businesses operating there. The occupation began following a rally organized by the Coalition for a Free South Africa in conjunction with a national day of divestment protests. Additionally, by the time occupation of Hamilton Hall began, several students and faculty had already been on hunger strike since March 25. 
+
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
