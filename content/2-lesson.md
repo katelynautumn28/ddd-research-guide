@@ -64,6 +64,16 @@ This letter from Barnard President Ellen Futter, located in the Correspondence s
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC01-01_Box39_Folder3.pdf", "#my-pdf4");</script>
 {% include modal.html button="Citation: Ellen Futter to the Board of Trustees, August 28, 1985" color="success" title="Citation and Link to Finding Aid" text="Ellen Futter to the Board of Trustees, August 28, 1985. [Correspondence, 1970s-80s, Box 39, Folder 3, Sub-series 2.3 Correspondence; Board of Trustees Records, BC01-01; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/25891)" %}
 
+On the same date as Ellen Futter's letter, Columbia's Office of Public Information released a report from the Ad Hoc Committee Regarding Investments in Companies with Operations in South Africa. The committee recommended that the Columbia Board of Trustees divest its $39M of common stock of American corporations with operations in South Africa within two years. The committee report is followed by a statement from Columbia spokeperson Fred Knubel, in which he states that the committee report will not be voted on until the Trustees' next meeting on October 7. In the statement, Knubel argues that the committee's report is not in response to student protest, but rather the result of the committee's independent research into the social and economic consequences of divestment. 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf11"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-8.pdf", "#my-pdf11");</script>
+{% include modal.html button="Citation: Supplemental Report from the Ad Hoc Committee Regarding Investments in Companies with Operations in South Africa with accompanying statement, August 28, 1985." color="success" title="Citation and Link to Finding Aid" text="Supplemental Report from the Ad Hoc Committee Regarding Investments in Companies with Operations in South Africa with accompanying statement, August 28, 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated. Box 32; Series 1; Office of Communications records, BC05-08; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %}
+
 From 1985 to 1993, the South Africa policy was frequently referenced by the Investment Committee, a standing Board committee that manages the “investment and reinvestment of the funds of the College” and establishes “investment guidelines in accordance with an investment policy approved by the Board”[1]. Boxes 63 and 64 in Subseries 3.5 cover the 1980s and 1990s, at which time the College's policies on South African investments were often under discussion:
 
 <style>
