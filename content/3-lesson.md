@@ -254,8 +254,8 @@ Six days into the occupation, Barnard students received the following statement 
 </style>
 <div id="my-pdf29"></div>
 <script src="https://unpkg.com/pdfobject"></script>
-<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf29");</script>
-{% include modal.html button="Citation: Statement from Barbara Schmitter to all Barnard students regarding Hamilton Hall blockade, April 10 1985." color="success" title="Citation" text="Statement from Barbara Schmitter to all Barnard students regarding Hamilton Hall blockade, April 10 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-4.pdf", "#my-pdf29");</script>
+{% include modal.html button="Citation: Statement from Barbara Schmitter to all Barnard students regarding Hamilton Hall blockade, April 10, 1985." color="success" title="Citation" text="Statement from Barbara Schmitter to all Barnard students regarding Hamilton Hall blockade, April 10 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
 
 On or around the same day, Barnard members of the Coalition for a Free South Africa released their own statement demanding divestment and criticizing the administration's disciplinary procedures and targeting of a small number of student protestors: 
 
@@ -266,6 +266,10 @@ On or around the same day, Barnard members of the Coalition for a Free South Afr
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
+
+The blockade came to an end on April 25, three weeks since it began. 
+
+{% include figure.html img="BC05-08_Box32_South-Africa-13.jpg" alt="New York Times clipping, April 26, 1985" caption="News clipping with article about the end of the Hamilton Hall blockade, negotations between students and administrators, and further actions planned by the Coalition for a Free South Africa, New York Times, April 26, 1985." width="75%" %} {% include modal.html button="Citation: New York Times clipping, April 26, 1985." color="success" title="Citation and Link to Finding Aid" text="News clipping with article about the end of the Hamilton Hall blockade, negotations between students and administrators, and further actions planned by the Coalition for a Free South Africa, New York Times, April 26, 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %}
 
 -------
 
