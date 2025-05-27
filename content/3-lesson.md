@@ -196,6 +196,14 @@ This letter, which is potentially an unsent draft due to its lack of signatures,
 
 ------
 
+Amidst anti-war protests, members of SDS, SAS, and BOSS also organized campus and regional actions to protest the brutalization, arrests, and murders of Black Panther actvists: 
+
+{% include figure.html img="BC05-22_Box50_Folder2_8.jpg" alt="'Free Our Sisters Free Ourselves' flyer, November 1969." caption="'Free Our Sisters Free Ourselves' flyer, November 1969. " width="75%" %} {% include modal.html button="Citation: 'Free Our Sisters Free Ourselves' flyer, November 1969" color="success" title="Citation and Link to Finding Aid" text="'Free Our Sisters Free Ourselves' flyer, November 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
+
+{% include figure.html img="BC05-22_Box50_Folder4_1.jpg" alt="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." caption="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." width="75%" %} {% include modal.html button="Citation: 'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." color="success" title="Citation and Link to Finding Aid" text="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
+
+------
+
 The President's Office records also contain materials related to protest and strike activities in the spring of 1972, launched in response to the escalation of the Vietnam War. Several documents relate to a mass strike meeeting held at McIntosh Center on Barnard's campus on April 18, 1972, as well as strike and protest activities that followed. 
 
 {% include figure.html img="BC05-22_Box50_Folder5_4.jpg" alt="'The War Continues...' flyer, April 17, 1972." caption="Flyer for a mass meeting at McIntosh Hall to plan protest and strike activities, April 17, 1972." width="75%" %} 
@@ -222,14 +230,6 @@ Strike and protest activities escalated, leading to the occupation of five Colum
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder5_5.pdf", "#my-pdf27");</script>
 {% include modal.html button="Citation: Statement from Columbia Office of Public Information regarding disciplinary and criminal charges against student protestors, May 23, 1972" color="success" title="Citation and Link to Finding Aid" text="Statement from Columbia Office of Public Information regarding disciplinary and criminal charges against student protestors, May 23, 1972 [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
-
--------
-
-## Black Power & Civil Rights
-
-{% include figure.html img="BC05-22_Box50_Folder2_8.jpg" alt="'Free Our Sisters Free Ourselves' flyer, November 1969." caption="Memo and itinerary from the Barnard Moratorium Committee, October 1969." width="75%" %} {% include modal.html button="Citation: 'Free Our Sisters Free Ourselves' flyer, November 1969" color="success" title="Citation and Link to Finding Aid" text="'Free Our Sisters Free Ourselves' flyer, November 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
-
-{% include figure.html img="BC05-22_Box50_Folder4_1.jpg" alt="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." caption="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." width="75%" %} {% include modal.html button="Citation: 'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." color="success" title="Citation and Link to Finding Aid" text="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
 -------
 
