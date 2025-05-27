@@ -238,6 +238,26 @@ Beginning on April 4, 1985, student protestors blockaded and occupied Hamilton H
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
 </style>
+<div id="my-pdf28"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/columbia-spectator-04-05-1985.pdf", "#my-pdf28");</script>
+{% include modal.html button="Citation: Columbia Spectator, April 5, 1985." color="success" title="Citation and Link to Object" text="['Protestors blockade Hamilton: Pro-divest students camp out on its steps overnight,' Columbia Spectator, April 5, 1985.](https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850405-01.2.2&e=-------en-20--1--txt-txIN-------)" %} 
+
+Six days into the occupation, Barnard students received the following statement from Barbara Schmitter, Vice President and Dean of Student Affairs (later renamed to Dean of the College), warning students of disciplinary actions that would be taken against students participating in any occupation or blockade of university buildings: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf29"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf29");</script>
+{% include modal.html button="Citation: Statement from Barbara Schmitter to all Barnard students regarding Hamilton Hall blockade, April 10 1985." color="success" title="Citation" text="Statement from Barbara Schmitter to all Barnard students regarding Hamilton Hall blockade, April 10 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
+
+On or around the same day, Barnard members of the Coalition for a Free South Africa released their own statement demanding divestment and criticizing the administration's disciplinary procedures and targeting of a small number of student protestors: 
+
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
 <div id="my-pdf30"></div>
 <script src="https://unpkg.com/pdfobject"></script>
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
@@ -257,7 +277,7 @@ On December 14, 1992, approximately 100 students blockaded Hamilton Hall for sev
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/columbia-spectator-01-19-1993.pdf", "#my-pdf31");</script>
 {% include modal.html button="Citation: Columbia Spectator, January 19, 1993." color="success" title="Citation" text="[Columbia Spectator, January 19, 1993. Columbia Spectator Archive, Columbia University Libraries.](https://spectatorarchive.library.columbia.edu/?a=d&d=cs19930119-01.1.1&e=-------en-20--1--txt-txIN-------)" %} 
 
-Barnard students who were involved in the protest were contacted by Barbara Schmitter, who served as Dean of Student Affairs (later renamed Dean of the College) from 1982-93: 
+Barnard students who were involved in the protest were contacted by Barbara Schmitter:
 
 <style>
 .pdfobject-container { height: 500px; border: 1px solid #ccc; }
