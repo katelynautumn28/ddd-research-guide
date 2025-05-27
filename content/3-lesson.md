@@ -174,7 +174,7 @@ Parents of Barnard and Columbia students were also compelled to voice their opin
 
 ------
 
-The President's Office records contains materials that reflects Barnard's and Columbia's participation in the worldwide Moratorium to End the War in Vietnam on October 15, 1969.
+The President's Office records contain materials that reflects Barnard's and Columbia's participation in the worldwide Moratorium to End the War in Vietnam on October 15, 1969.
 
 {% include figure.html img="BC05-22_Box50_Folder2_5.jpg" alt="Flyer for the Moratorium to End the War in Vietnam, 1969." caption="Flyer from the New York office of the Vietnam Moratorium Committee listing recommended protest activities for the Moratorium to End the War in Vietnam on October 15, 1969." width="75%" %} {% include modal.html button="Citation: Flyer for the Moratorium to End the War in Vietnam, 1969." color="success" title="Citation and Link to Finding Aid" text="Flyer for the Moratorium to End the War in Vietnam, 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
@@ -192,9 +192,26 @@ This letter, which is potentially an unsent draft due to its lack of signatures,
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-22_Box50_Folder2_6.pdf", "#my-pdf26");</script>
 {% include modal.html button="Citation: Letter from Barnard community to US President Richard Nixon, October 15, 1969." color="success" title="Citation and Link to Finding Aid" text="Letter from Barnard community to US President Richard Nixon, October 15, 1969. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
-images/BC05-22_Box50_Folder2_2 thru 7
-
 ------
+
+The President's Office records also contain materials related to protest and strike activities in the spring of 1972, launched in response to the escalation of the Vietnam War. Several documents relate to a mass strike meeeting held at McIntosh Center on Barnard's campus on April 18, 1972, as well as strike and protest activities that followed. 
+
+{% include figure.html img="BC05-22_Box50_Folder5_4.jpg" alt="'The War Continues...' flyer, April 17, 1972." caption="Flyer for a mass meeting at McIntosh Hall to plan protest and strike activities, April 17, 1972." width="75%" %} 
+{% include modal.html button="Citation: Flyer for a mass meeting at McIntosh Hall to plan protest and strike activities, April 17, 1972." color="success" title="Citation and Link to Finding Aid" text="Flyer for a mass meeting at McIntosh Hall to plan protest and strike activities, April 17, 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
+
+{% include figure.html img="Protest_Strike_Bway_72.jpg" alt="March on Broadway, April 18, 1972" caption="Students march on Broadway with a sign that reads, 'ON STRIKE! SHUT IT DOWN / SERVE THE PEOPLE,' April 18, 1972." width="75%" %} 
+{% include modal.html button="Citation: "March on Broadway, April 18, 1972." color="success" title="Citation and Link to Finding Aid" text="March on Broadway, April 18, 1972 [BC17-10 Photographs - Student Activities and Student Life; Barnard Digital Collections](https://digitalcollections.barnard.edu/do/4115d201-5d5c-40b6-b933-4d329d709dc9)" %}
+
+{% include figure.html img="BC05-22_Box50_Folder5_2.jpg" alt="'A Factual Report of the Outcome of the Mass Strike Meeting,' April 19, 1972." caption="An itinerary of strike and protest activities scheduled for the week following the mass strike meeting held at Barnard on April 18, 1972." width="75%" %} 
+{% include modal.html button="Citation: "An itinerary of strike and protest activities scheduled for the week following the mass strike meeting held at Barnard on April 18, 1972." color="success" title="Citation and Link to Finding Aid" text="An itinerary of strike and protest activities scheduled for the week following the mass strike meeting held at Barnard on April 18, 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
+
+{% include figure.html img="BC05-22_Box50_Folder5_3.jpg" alt="Strike flyer, April 1972." caption="A flyer for the university strike explaining why picket lines were opened, potentially on Wednesday, April 19, 1972 following the mass strike meeting and march held the previous day." width="75%" %} 
+{% include modal.html button="Citation: "Strike flyer, April 1972." color="success" title="Citation and Link to Finding Aid" text="Strike flyer, April 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
+
+{% include figure.html img="BC05-22_Box50_Folder5_1.jpg" alt="Strike flyer, April 1972." caption="A flyer for the university strike explaining why picket lines were opened, potentially on Wednesday, April 19, 1972 following the mass strike meeting and march held the previous day." width="75%" %} 
+{% include modal.html button="Citation: "Strike flyer, April 1972." color="success" title="Citation and Link to Finding Aid" text="Strike flyer, April 1972. [Political Activities materials and correspondence (5 of 5), 1969, Box 50, Folder 5; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19920)" %}
+
+
 
 1972 strike 
 images/BC05-22_Box50_Folder5_1 through 5
