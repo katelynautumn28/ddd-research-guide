@@ -289,7 +289,7 @@ After three weeks, the blockade came to an end on April 25, 1985.
 
 {% include figure.html img="BC05-08_Box32_South-Africa-13.jpg" alt="New York Times clipping, April 26, 1985" caption="News clipping with article about the end of the Hamilton Hall blockade, negotations between students and administrators, and further actions planned by the Coalition for a Free South Africa, New York Times, April 26, 1985." width="75%" %} {% include modal.html button="Citation: New York Times clipping, April 26, 1985." color="success" title="Citation and Link to Finding Aid" text="News clipping with article about the end of the Hamilton Hall blockade, negotations between students and administrators, and further actions planned by the Coalition for a Free South Africa, New York Times, April 26, 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %}
 
-See the [Divestment section](https://katelynautumn28.github.io/ddd-workshop/content/2-lesson.html) of this lesson plan to view the resolutions of Columbia and Barnard Trustees to divest from businesses operating in South Africa in the months following the protests. 
+See the [Divestment section](https://katelynautumn28.github.io/ddd-workshop/content/2-lesson.html) of this workshop plan to view the resolutions of Columbia and Barnard Trustees to divest from businesses operating in South Africa in the months following the protests. 
 
 -------
 
