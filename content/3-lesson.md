@@ -204,7 +204,13 @@ Amidst anti-war protests, members of SDS, SAS, and BOSS also organized campus an
 
 In 1969, BOSS issued a list of ten demands to Barnard administration including demands for equitable housing, a dedicated campus space, courses and library materials on African American studies, and increased recruitment of Black students, among other demands. President Martha Peterson offered a response to the demands at a convocation of students on March 3, however President Peterson's response was not satisfactory to BOSS and was rejected by the group entirely. The spring 1969 of *Barnard Alumnae*, Barnard's alum magazine, offered an account of the events leading up to the conflict and printed the statements made by both BOSS and President Peterson. 
 
-
+<style>
+.pdfobject-container { height: 500px; border: 1px solid #ccc; }
+</style>
+<div id="my-pdf33"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC11-08_58-03.pdf", "#my-pdf33");</script>
+{% include modal.html button="Citation: Barnard Alumnae, Spring 1969" color="success" title="Citation and Link to Object" text="Articles related to BOSS activities in spring 1969, Barnard Alumnae, Spring 1969, pg 6-17. [Barnard Alumnae Spring 1969; Barnard Magazine, BC11-08; Barnard Digital Collections](https://digitalcollections.barnard.edu/do/72893f2d-3d9c-4584-a75a-d4d276741157#page/4/mode/2up)" %} 
 
 In 2019, BOSS E-Board members Maat Bates and Denise Mantey created an exhibit honoring BOSS’ 50th anniversary and looking back on the demands that BOSS made of Barnard’s administration in 1969. The multi-faceted and interactive exhibit was displayed in the Altschul lounge and later brought to the Archives Reading Room. In the exhibit, Bates and Mantey offered perspectives on BOSS’s past, present, and future; reflected on the impact of the 1969 demands on the lives of Black students and Barnard; and named the ways in which demands presented in 1969 have still not yet been addressed by the College. Materials featured in the exhibit are preserved in the [Barnard Organization of Soul and Solidarity (B.O.S.S.) collection, BC37-02](https://collections.barnard.edu/public/repositories/2/resources/279)
 
