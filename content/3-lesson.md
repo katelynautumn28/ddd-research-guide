@@ -202,6 +202,16 @@ Amidst anti-war protests, members of SDS, SAS, and BOSS also organized campus an
 
 {% include figure.html img="BC05-22_Box50_Folder4_1.jpg" alt="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." caption="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." width="75%" %} {% include modal.html button="Citation: 'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970." color="success" title="Citation and Link to Finding Aid" text="'Support the Black Panther Party - Fight Columbia's Expansion' flyer, December 1970. [Political Activities materials and correspondence (2 of 5), 1969, Box 50, Folder 2; Sub-series 3.1 Martha Peterson Correspondence; President's Office Records, BC05-22; Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/19917)" %}
 
+In 1969, BOSS issued a list of ten demands to Barnard administration including demands for equitable housing, a dedicated campus space, courses and library materials on African American studies, and increased recruitment of Black students, among other demands. President Martha Peterson offered a response to the demands at a convocation of students on March 3, however President Peterson's response was not satisfactory to BOSS and was rejected by the group entirely. The spring 1969 of *Barnard Alumnae*, Barnard's alum magazine, offered an account of the events leading up to the conflict and printed the statements made by both BOSS and President Peterson. 
+
+
+
+In 2019, BOSS E-Board members Maat Bates and Denise Mantey created an exhibit honoring BOSS’ 50th anniversary and looking back on the demands that BOSS made of Barnard’s administration in 1969. The multi-faceted and interactive exhibit was displayed in the Altschul lounge and later brought to the Archives Reading Room. In the exhibit, Bates and Mantey offered perspectives on BOSS’s past, present, and future; reflected on the impact of the 1969 demands on the lives of Black students and Barnard; and named the ways in which demands presented in 1969 have still not yet been addressed by the College. Materials featured in the exhibit are preserved in the [Barnard Organization of Soul and Solidarity (B.O.S.S.) collection, BC37-02](https://collections.barnard.edu/public/repositories/2/resources/279)
+
+While not focused specifically on BOSS, *Black @ Barnard: Analyzing How Black Barnard Students Exist On Campus* is another exhibition that charts the historical legacies of Black students at Barnard. Curated by Corinth Jackson '20, *Black @ Barnard* is available to [view online](https://scalar.usc.edu/works/blackbarnard/index). 
+
+
+
 ------
 
 The President's Office records also contain materials related to protest and strike activities in the spring of 1972, launched in response to the escalation of the Vietnam War. Several documents relate to a mass strike meeeting held at McIntosh Center on Barnard's campus on April 18, 1972, as well as strike and protest activities that followed. 
@@ -269,9 +279,11 @@ On or around the same day, Barnard members of the Coalition for a Free South Afr
 <script>PDFObject.embed("https://katelynautumn28.github.io/ddd-workshop/images/BC05-08_Box32_South-Africa-5.pdf", "#my-pdf30");</script>
 {% include modal.html button="Citation: Statement from Barnard Women of the Coalition for a Free South Africa, April 1985." color="success" title="Citation" text="Statement from Barnard Women of the Coalition for a Free South Africa, April 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %} 
 
-The blockade came to an end on April 25, three weeks since it began. 
+After three weeks, the blockade came to an end on April 25, 1985.
 
 {% include figure.html img="BC05-08_Box32_South-Africa-13.jpg" alt="New York Times clipping, April 26, 1985" caption="News clipping with article about the end of the Hamilton Hall blockade, negotations between students and administrators, and further actions planned by the Coalition for a Free South Africa, New York Times, April 26, 1985." width="75%" %} {% include modal.html button="Citation: New York Times clipping, April 26, 1985." color="success" title="Citation and Link to Finding Aid" text="News clipping with article about the end of the Hamilton Hall blockade, negotations between students and administrators, and further actions planned by the Coalition for a Free South Africa, New York Times, April 26, 1985. [Clippings (including apartheid protests), women's studies program, first year statistics, Seven Sisters admissions and conference materials, 1963-1989, undated, Box 32; Series 1 Press Releases and Clippings; Office of Communications records, BC05-08. Barnard Archives and Special Collections.](https://collections.barnard.edu/public/repositories/2/archival_objects/265)" %}
+
+See the [Divestment section](https://katelynautumn28.github.io/ddd-workshop/content/2-lesson.html) of this lesson plan to view the resolutions of Columbia and Barnard Trustees to divest from businesses operating in South Africa in the months following the protests. 
 
 -------
 
