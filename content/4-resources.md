@@ -5,7 +5,7 @@ nav: Resources
 
 ## Continue your research at Barnard
 
-The collections highlighted in this lesson plan are only a few examples of materials that might be helpful for researching histories of divestment, dissent, and discipline at Barnard. You can continue your research by: 
+The collections highlighted in this workshop plan are only a few examples of materials that might be helpful for researching histories of divestment, dissent, and discipline at Barnard. You can continue your research by: 
 - Exploring the following digital exhibitions: [1968: Columbia in Crisis](https://exhibitions.library.columbia.edu/exhibits/show/1968), [From LeClair to Low Library: Barnard's Spring of 1968](https://barnardarchives.omeka.net/collections/show/3), and [Black @ Barnard: Analyzing How Black Barnard Students Exist On Campus](https://scalar.usc.edu/works/blackbarnard/index).
 - Searching the archives of student periodicals such as the [Barnard Bulletin](https://digitalcollections.barnard.edu/bulletin) and the [Columbia Spectator](https://spectatorarchive.library.columbia.edu/) to identify past actions (protests and sit-ins), discussions between students and admin, or student opinions on how the administration was operating.
 - Exploring the [Barnard Zine Library](https://zines.barnard.edu/), which holds numerous zines created by activists from Barnard and New York City. Try searching keywords and phrases like divest, activism, protest, dissent, discipline, student conduct, rally, or march in the [CLIO](https://clio.columbia.edu/catalog) library catalog or [ask a zine librarian](mailto:zines@barnard.edu). 
