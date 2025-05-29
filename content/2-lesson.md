@@ -1,7 +1,7 @@
 ---
 title: Researching Divestment
 nav: Divestment
-topics: South African apartheid; Fossil fuels; Israel; Palestine; Board of Trustees; President's Office
+topics: South African apartheid; Divest Barnard; Fossil fuels; Israel; Palestine; Board of Trustees; President's Office; Committee on Investments
 ---
 
 Divestment, also known as divestiture, refers to when a business sells off some assets (e.g. stocks, property, subsidiaries) to achieve some financial, ethical, or political goal. To divest from a business or class of businesses (e.g. energy companies that utilize fossil fuels) means to end financial and business relationships with them so neither party may continue to benefit financially from the other. 
