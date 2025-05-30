@@ -16,5 +16,5 @@ The collections highlighted in this workshop plan are only a few examples of mat
 ## Research beyond Barnard
 
 If you’re interested in archives of activism beyond the Barnard context, check out: 
-- [*Walkout: A Brief History of Student Organizing*](https://walkout.interferencearchive.org/), an online exhibition by [Interference Archive](https://interferencearchive.org/), volunteer-run community archive based in Brooklyn, NY.
-- [Project STAND](https://standarchives.com/), a digital archiving initative compiling archival collections related to student activism and organizing, as well as additional resources for archiving student protest and connecting with fellow archivists, activists, and memory workers. 
+- [*Walkout: A Brief History of Student Organizing*](https://walkout.interferencearchive.org/), an online exhibition by [Interference Archive](https://interferencearchive.org/), a volunteer-run community archive based in Brooklyn, NY.
+- [Project STAND](https://standarchives.com/), a digital archiving initiative compiling archival collections related to student activism and organizing, as well as additional resources for archiving student protest and connecting with fellow archivists, activists, and memory workers. 
